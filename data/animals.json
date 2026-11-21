@@ -9914,7 +9914,11 @@
         "homo-luzonensis",
         "woolly-mammoth",
         "diprotodon-optatum"
-      ]
+      ],
+      "weight": {
+        "text": "Unknown",
+        "note": "A reliable species-specific estimate was not established for this record."
+      }
     },
     {
       "id": "nesorhinus-philippinensis",
@@ -10002,7 +10006,11 @@
         "woolly-rhinoceros",
         "homo-luzonensis",
         "stegodon-luzonensis"
-      ]
+      ],
+      "weight": {
+        "text": "Unknown",
+        "note": "A reliable species-specific estimate was not established for this record."
+      }
     },
     {
       "id": "megalochelys-sondaari",
@@ -10085,7 +10093,11 @@
         "archelon-ischyros",
         "stupendemys-geographicus",
         "nesorhinus-philippinensis"
-      ]
+      ],
+      "weight": {
+        "text": "Unknown",
+        "note": "A reliable species-specific estimate was not established for this record."
+      }
     }
   ]
 }
