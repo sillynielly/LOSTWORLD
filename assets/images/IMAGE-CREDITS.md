@@ -23,14 +23,13 @@
 - **Steller's Sea Cow —** KKPCW, museum skeleton reconstruction, Wikimedia Commons, [source](https://commons.wikimedia.org/wiki/File:Reconstruction_of_the_Skeleton_of_Steller%27s_sea_cow_(Hydrodamalis_gigas)_-_1.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - **Diplocaulus —** Camelops, Denver Museum of Nature and Science fossil and model display, Wikimedia Commons, [source](https://commons.wikimedia.org/wiki/File:Diplocaulus_-_skeleton_and_model.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
+- **Gerobatrachus hottoni —** Smithsonian National Museum of Natural History specimen photograph, uploaded by Ghedoghedo to Wikimedia Commons, [source](https://commons.wikimedia.org/wiki/File:Gerobatrachus_hottoni_Anderson_et_al.,_2008.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- **Philippine Stegodon (Stegodon luzonensis) —** Phil2011.13, fossil display at the National Museum of Natural History, Philippines, Wikimedia Commons, [source](https://commons.wikimedia.org/wiki/File:20251029_NationalMuseum_StegodonLuzonensis.jpg), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- **Philippine Rhinoceros (Nesorhinus philippinensis) —** Darwgon0801, fossil remains from Rizal, Kalinga, Wikimedia Commons, [source](https://commons.wikimedia.org/wiki/File:Remains_of_a_Rhinoceros_philippinensis_found_in_Rizal,_Kalinga_dated_c._709,000_years_ago.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- **Luzon Giant Tortoise (Megalochelys sondaari) —** Phil2011.13, fossil display at the National Museum of Natural History, Philippines, Wikimedia Commons, [source](https://commons.wikimedia.org/wiki/File:20251029_NationalMuseum_MegalochelysSondaari.jpg), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+
 Per-animal source URLs, licenses, and descriptive alt text are also stored in [`data/animals.json`](../../data/animals.json).
 
-
-## Species-specific placeholders
-
-These project-created SVG plates are explicit placeholders, not animal images. They are labeled with the animal's name and are not represented as photographs or scientific reconstructions.
-
-- **Gerobatrachus (Gerobatrachus hottoni)** — project-created species-specific placeholder at `assets/images/animals/gerobatrachus-hottoni.svg`. It is not a photograph or scientific reconstruction. The profile links to the [Smithsonian specimen record](https://www.si.edu/object/gerobatrachus-hottoni-anderson-et-al-2008:nmnhpaleobiology_3577932); the available image file carries conflicting reuse notices, so the placeholder remains until an image with clear reuse terms is confirmed.
 
 ## Additional sourced images
 
