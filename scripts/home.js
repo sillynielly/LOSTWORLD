@@ -70,7 +70,8 @@ eraButtons.forEach((button) => {
         eraResult.replaceChildren();
         return;
       }
-      const previousId = eraResult.querySelector("a")?.searchParams?.get("id");
+      const currentLink = eraResult.querySelector("a");
+      const previousId = currentLink ? new URL(currentLink.href).searchParams.get("id") : null;
       const alternatives = matches.filter((animal) => animal.id !== previousId);
       const pool = alternatives.length ? alternatives : matches;
       showEraDiscovery(pool[Math.floor(Math.random() * pool.length)], button.dataset.era, matches.length);
