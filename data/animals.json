@@ -5402,13 +5402,13 @@
         "Squalicorax teeth are frequently found in Cretaceous marine fossil assemblages."
       ],
       "image": {
-        "src": "../assets/images/animals/squalicorax-pristodontus.svg",
-        "alt": "Species-specific placeholder artwork for Squalicorax; not a photograph or scientific reconstruction.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Squalicorax_pristodontus_Agassiz%2C_1843_1.jpg",
+        "alt": "Squalicorax pristodontus fossil tooth from Erfoud, Morocco.",
+        "type": "Fossil tooth photograph",
+        "creator": "Géry Parent",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Squalicorax_pristodontus_Agassiz,_1843_1.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
       "references": [
         {
@@ -6705,13 +6705,13 @@
         "Archelon is known from a nearly complete skeleton discovered in South Dakota."
       ],
       "image": {
-        "src": "../assets/images/animals/archelon-ischyros.svg",
-        "alt": "Species-specific placeholder artwork for Archelon; not a photograph or scientific reconstruction.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Archelon_ischyros_NHM_Wien.jpg",
+        "alt": "Archelon ischyros skeleton at the Natural History Museum in Vienna.",
+        "type": "Museum skeleton photograph",
+        "creator": "Dr. Bernd Gross",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Archelon_ischyros_NHM_Wien.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "references": [
         {
@@ -8095,13 +8095,13 @@
         "Baculites fossils are often found in large numbers in Cretaceous marine deposits."
       ],
       "image": {
-        "src": "../assets/images/animals/baculites-compressus.svg",
-        "alt": "Species-specific placeholder artwork for Baculites; not a photograph or scientific reconstruction.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Baculites_compressus.jpg",
+        "alt": "Baculites compressus fossil photographed at Naturalis Biodiversity Center in Leiden.",
+        "type": "Fossil specimen photograph",
+        "creator": "Ghedoghedo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baculites_compressus.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
       "references": [
         {
@@ -8261,13 +8261,13 @@
         "Its fossils help scientists reconstruct ancient ecosystems."
       ],
       "image": {
-        "src": "../assets/images/animals/interpretive-fossil-plate.svg",
-        "alt": "Interpretive fossil exhibit graphic for Paraceratherium; not a photograph or scientific life reconstruction.",
-        "type": "Project-created interpretive fossil plate",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Paraceratherium_AMNH.jpg",
+        "alt": "Paraceratherium transouralicum skull (AMNH 18650) on display at the American Museum of Natural History.",
+        "type": "Fossil skull photograph",
+        "creator": "Jonathan Chen",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paraceratherium_AMNH.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "references": [
         {
@@ -8917,13 +8917,13 @@
         "Its fossils help scientists reconstruct ancient ecosystems."
       ],
       "image": {
-        "src": "../assets/images/animals/interpretive-fossil-plate.svg",
-        "alt": "Interpretive fossil exhibit graphic for Baryonyx; not a photograph or scientific life reconstruction.",
-        "type": "Project-created interpretive fossil plate",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Baryonyx_skull_reconstruction.png",
+        "alt": "Reconstruction of the Baryonyx walkeri skull based on a cast of the holotype specimen, photographed at Dinosaur Isle museum.",
+        "type": "Fossil skull reconstruction photograph",
+        "creator": "A Cynical Idealist",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baryonyx_skull_reconstruction.png",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
       },
       "references": [
         {
@@ -9488,13 +9488,13 @@
         "Its fossils help scientists reconstruct ancient ecosystems."
       ],
       "image": {
-        "src": "../assets/images/animals/interpretive-fossil-plate.svg",
-        "alt": "Interpretive fossil exhibit graphic for Minmi; not a photograph or scientific life reconstruction.",
-        "type": "Project-created interpretive fossil plate",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Minmi_left_foot.jpg",
+        "alt": "Fossil left foot of Minmi paravertebra (QM F10329), holotype material, with scale.",
+        "type": "Fossil specimen photograph",
+        "creator": "Stephen F. Poropat, Phil R. Bell, Lachlan J. Hart, Steven W. Salisbury, and Benjamin P. Kear",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Minmi_left_foot.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "references": [
         {
