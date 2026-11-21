@@ -4586,13 +4586,13 @@
         "It was one of several flightless rails that disappeared on islands after human arrival."
       ],
       "image": {
-        "src": "../assets/images/animals/aphanapteryx-bonasia.svg",
-        "alt": "Species-specific placeholder artwork for Red rail; not a photograph or scientific reconstruction.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Aphanapteryx.jpg",
+        "alt": "Historical scientific illustration showing Aphanapteryx bonasia fossil remains, published in 1868.",
+        "type": "Historical fossil illustration",
+        "creator": "Alphonse Milne-Edwards",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aphanapteryx.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
       },
       "references": [
         {
@@ -4666,13 +4666,13 @@
         "Moa were a diverse group of flightless birds, not a single species."
       ],
       "image": {
-        "src": "../assets/images/animals/emeus-crassus.svg",
-        "alt": "Species-specific placeholder artwork for Eastern moa; not a photograph or scientific reconstruction.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Emeus_crassus_%28Eastern_Moa%29_%2848719141063%29.jpg",
+        "alt": "Preserved Eastern moa (Emeus crassus) specimen from the Auckland Museum collection.",
+        "type": "Museum specimen photograph",
+        "creator": "Auckland Museum Collections",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emeus_crassus_(Eastern_Moa)_(48719141063).jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
       },
       "references": [
         {
@@ -5482,13 +5482,13 @@
         "It is among the largest known amphibian-like temnospondyls."
       ],
       "image": {
-        "src": "../assets/images/animals/prionosuchus-plummeri.svg",
-        "alt": "Species-specific placeholder artwork for Prionosuchus; not a photograph or scientific reconstruction.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Prionosuchus_DB.jpg",
+        "alt": "Life reconstruction of Prionosuchus plummeri by Dmitry Bogdanov.",
+        "type": "Life reconstruction",
+        "creator": "Dmitry Bogdanov",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prionosuchus_DB.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
       },
       "references": [
         {
@@ -5970,13 +5970,13 @@
         "The species was formally declared extinct by the IUCN in 2008 after decades without confirmed records."
       ],
       "image": {
-        "src": "../assets/images/animals/neomonachus-tropicalis.svg",
-        "alt": "Species-specific placeholder artwork for Caribbean monk seal; not a photograph or scientific reconstruction.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Monachus_tropicalis.jpg",
+        "alt": "Historical illustration of the Caribbean monk seal (Monachus tropicalis) from an 1887 United States fisheries publication.",
+        "type": "Historical illustration",
+        "creator": "George Brown Goode",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monachus_tropicalis.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
       },
       "references": [
         {
