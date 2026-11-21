@@ -2898,13 +2898,13 @@
         "Its exceptionally long tail may have served several functions; exact use is studied and debated."
       ],
       "image": {
-        "src": "../assets/images/animals/diplodocus.svg",
-        "alt": "Species-specific placeholder artwork for Diplodocus; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Diplodocus_Carnegii_skeleton_in_Museum_f%C3%BCr_Naturkunde_Berlin_0869.jpg",
+        "alt": "Diplodocus carnegii skeleton displayed at the Museum für Naturkunde in Berlin.",
+        "type": "Museum skeleton photograph",
+        "creator": "Photographer credited on Commons file page",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diplodocus_Carnegii_skeleton_in_Museum_für_Naturkunde_Berlin_0869.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "references": [
         {
@@ -2979,13 +2979,13 @@
         "Feathering is supported in close relatives; complete plumage is not directly preserved for every specimen."
       ],
       "image": {
-        "src": "../assets/images/animals/velociraptor.svg",
-        "alt": "Species-specific placeholder artwork for Velociraptor; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Velociraptor_skeleton.jpg",
+        "alt": "Velociraptor skeleton displayed at the Royal Belgian Institute of Natural Sciences.",
+        "type": "Museum skeleton photograph",
+        "creator": "Eduard Solà Vázquez",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Velociraptor_skeleton.jpg",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
       },
       "references": [
         {
@@ -3141,13 +3141,13 @@
         "Mosasaur fossils helped establish that large marine reptiles once lived in ancient seas."
       ],
       "image": {
-        "src": "../assets/images/animals/mosasaurus.svg",
-        "alt": "Species-specific placeholder artwork for Mosasaurus; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Maastricht_Mosasaurus_26092015_07.jpg",
+        "alt": "Skull of Mosasaurus hoffmannii at the Natural History Museum of Maastricht.",
+        "type": "Fossil skull photograph",
+        "creator": "Vassil",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maastricht_Mosasaurus_26092015_07.jpg",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
       },
       "references": [
         {
@@ -3222,13 +3222,13 @@
         "Ichthyosaurs gave birth to live young, as shown by fossils with embryos."
       ],
       "image": {
-        "src": "../assets/images/animals/ichthyosaurus.svg",
-        "alt": "Species-specific placeholder artwork for Ichthyosaurus; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ichthyosaurus_communis_%28fossil%29.jpg",
+        "alt": "Fossil of Ichthyosaurus photographed at Teylers Museum in Haarlem.",
+        "type": "Fossil specimen photograph",
+        "creator": "Ghedoghedo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ichthyosaurus_communis_(fossil).jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
       "references": [
         {
@@ -3383,13 +3383,13 @@
         "Early reconstructions mistakenly placed the skull at the end of the tail."
       ],
       "image": {
-        "src": "../assets/images/animals/elasmosaurus.svg",
-        "alt": "Species-specific placeholder artwork for Elasmosaurus; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Elasmosaurus_platyurus.png",
+        "alt": "Life reconstruction of Elasmosaurus platyurus by Connor Ashbridge.",
+        "type": "Life reconstruction",
+        "creator": "Connor Ashbridge",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elasmosaurus_platyurus.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "references": [
         {
