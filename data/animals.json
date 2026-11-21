@@ -8671,13 +8671,13 @@
         "Its fossils help scientists reconstruct ancient ecosystems."
       ],
       "image": {
-        "src": "../assets/images/animals/interpretive-fossil-plate.svg",
-        "alt": "Interpretive fossil exhibit graphic for Pachycephalosaurus; not a photograph or scientific life reconstruction.",
-        "type": "Project-created interpretive fossil plate",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pachycephalosaurus_Skull_AMNH.jpg",
+        "alt": "Pachycephalosaurus wyomingensis skull (AMNH 1696) on display at the American Museum of Natural History.",
+        "type": "Fossil skull photograph",
+        "creator": "Jonathan Chen",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pachycephalosaurus_Skull_AMNH.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "references": [
         {
@@ -8753,13 +8753,13 @@
         "Its fossils help scientists reconstruct ancient ecosystems."
       ],
       "image": {
-        "src": "../assets/images/animals/interpretive-fossil-plate.svg",
-        "alt": "Interpretive fossil exhibit graphic for Protoceratops; not a photograph or scientific life reconstruction.",
-        "type": "Project-created interpretive fossil plate",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Protoceratops_andrewsi_skeleton_front.JPG",
+        "alt": "Fossil of Protoceratops andrewsi photographed at the Dinosaurium in Prague.",
+        "type": "Fossil skeleton photograph",
+        "creator": "Ghedoghedo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Protoceratops_andrewsi_skeleton_front.JPG",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "references": [
         {
@@ -8835,13 +8835,13 @@
         "Its fossils help scientists reconstruct ancient ecosystems."
       ],
       "image": {
-        "src": "../assets/images/animals/interpretive-fossil-plate.svg",
-        "alt": "Interpretive fossil exhibit graphic for Corythosaurus; not a photograph or scientific life reconstruction.",
-        "type": "Project-created interpretive fossil plate",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Corythosaurus_AMNH.jpg",
+        "alt": "Corythosaurus casuarius plesiotype skeleton (AMNH 5338) on display at the American Museum of Natural History.",
+        "type": "Museum skeleton photograph",
+        "creator": "Jonathan Chen",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Corythosaurus_AMNH.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "references": [
         {
@@ -8999,13 +8999,13 @@
         "Its fossils help scientists reconstruct ancient ecosystems."
       ],
       "image": {
-        "src": "../assets/images/animals/interpretive-fossil-plate.svg",
-        "alt": "Interpretive fossil exhibit graphic for Plateosaurus; not a photograph or scientific life reconstruction.",
-        "type": "Project-created interpretive fossil plate",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Plateosaurus_engelhardti_-_Frick_-_Naturhistorisches_Museum_Bern.jpg",
+        "alt": "Plateosaurus engelhardti skeleton reconstruction from Frick, photographed at the Natural History Museum of Bern.",
+        "type": "Museum skeleton photograph",
+        "creator": "DagdaMor",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plateosaurus_engelhardti_-_Frick_-_Naturhistorisches_Museum_Bern.jpg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
       },
       "references": [
         {
