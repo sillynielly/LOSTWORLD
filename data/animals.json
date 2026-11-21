@@ -1861,13 +1861,13 @@
         "Diprotodon is often described as the largest known marsupial, though size estimates vary."
       ],
       "image": {
-        "src": "../assets/images/animals/diprotodon-optatum.svg",
-        "alt": "Species-specific placeholder artwork for Diprotodon; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dirpotodon_optatum.jpg",
+        "alt": "Life reconstruction of Diprotodon optatum by Mr Langlois10.",
+        "type": "Life reconstruction",
+        "creator": "Mr Langlois10",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dirpotodon_optatum.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "references": [
         {
@@ -2179,13 +2179,13 @@
         "Oversized incisors do not establish that it built dams like living beavers."
       ],
       "image": {
-        "src": "../assets/images/animals/giant-beaver.svg",
-        "alt": "Species-specific placeholder artwork for Giant beaver; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Skeleton_of_Castoroides_ohioensis.jpg",
+        "alt": "Skeleton of the giant beaver (Castoroides ohioensis) displayed at the National Museum of Nature and Science in Tokyo, Japan.",
+        "type": "Fossil skeleton photograph",
+        "creator": "Momotarou2012",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skeleton_of_Castoroides_ohioensis.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
       "references": [
         {
@@ -2417,13 +2417,13 @@
         "Its scientific genus has changed in classifications; older literature often uses Harpagornis moorei."
       ],
       "image": {
-        "src": "../assets/images/animals/haasts-eagle.svg",
-        "alt": "Species-specific placeholder artwork for Haast's eagle; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Haast%E2%80%99s_Eagle_Skeletal_Reconstruction.png",
+        "alt": "Skeletal reconstruction of Haast's eagle (Hieraaetus moorei), based on figured specimens.",
+        "type": "Skeletal reconstruction",
+        "creator": "Beyondourworld",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haast%E2%80%99s_Eagle_Skeletal_Reconstruction.png",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "references": [
         {
