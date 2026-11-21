@@ -9080,13 +9080,13 @@
         "Its fossils help scientists reconstruct ancient ecosystems."
       ],
       "image": {
-        "src": "../assets/images/animals/interpretive-fossil-plate.svg",
-        "alt": "Interpretive fossil exhibit graphic for Gorgonops; not a photograph or scientific life reconstruction.",
-        "type": "Project-created interpretive fossil plate",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/The_skeleton_of_specimen_SAM-PK-K10591_%28Gorgonops_torvus%29.png",
+        "alt": "Photograph and interpretative drawing of the Gorgonops torvus skeleton specimen SAM-PK-K10591.",
+        "type": "Fossil skeleton photograph and interpretative drawing",
+        "creator": "Eva-Maria Bendel, Christian F. Kammerer, Roger M. H. Smith, and Jörg Fröbisch",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_skeleton_of_specimen_SAM-PK-K10591_(Gorgonops_torvus).png",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
       },
       "references": [
         {
@@ -9161,13 +9161,13 @@
         "Its fossils help scientists reconstruct ancient ecosystems."
       ],
       "image": {
-        "src": "../assets/images/animals/interpretive-fossil-plate.svg",
-        "alt": "Interpretive fossil exhibit graphic for Dimetrodon; not a photograph or scientific life reconstruction.",
-        "type": "Project-created interpretive fossil plate",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dimetrodon.jpg",
+        "alt": "Fossil skeleton of Dimetrodon grandis at the National Museum of Natural History in Washington, DC.",
+        "type": "Fossil skeleton photograph",
+        "creator": "Postdlf",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dimetrodon.jpg",
+        "license": "GFDL 1.2",
+        "licenseUrl": "https://www.gnu.org/licenses/old-licenses/fdl-1.2.html"
       },
       "references": [
         {
@@ -9242,13 +9242,13 @@
         "Its fossils help scientists reconstruct ancient ecosystems."
       ],
       "image": {
-        "src": "../assets/images/animals/interpretive-fossil-plate.svg",
-        "alt": "Interpretive fossil exhibit graphic for Lystrosaurus; not a photograph or scientific life reconstruction.",
-        "type": "Project-created interpretive fossil plate",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Lystrosaurus_murrayi_skull.jpg",
+        "alt": "Lystrosaurus murrayi fossil skull photographed at the Natural History Museum of Bonn University.",
+        "type": "Fossil skull photograph",
+        "creator": "Ghedoghedo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lystrosaurus_murrayi_skull.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "references": [
         {
@@ -9324,13 +9324,13 @@
         "Its fossils help scientists reconstruct ancient ecosystems."
       ],
       "image": {
-        "src": "../assets/images/animals/interpretive-fossil-plate.svg",
-        "alt": "Interpretive fossil exhibit graphic for Edmontonia; not a photograph or scientific life reconstruction.",
-        "type": "Project-created interpretive fossil plate",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Edmontonia_skeleton.jpg",
+        "alt": "Skeleton of the nodosaurid dinosaur Edmontonia.",
+        "type": "Museum skeleton photograph",
+        "creator": "★Kumiko★",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edmontonia_skeleton.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
       },
       "references": [
         {
@@ -9406,13 +9406,13 @@
         "Its fossils help scientists reconstruct ancient ecosystems."
       ],
       "image": {
-        "src": "../assets/images/animals/interpretive-fossil-plate.svg",
-        "alt": "Interpretive fossil exhibit graphic for Ornithomimus; not a photograph or scientific life reconstruction.",
-        "type": "Project-created interpretive fossil plate",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/OrnithomimusROM.JPG",
+        "alt": "Cast skeleton of Ornithomimus edmontonicus (ROM 851) displayed at the Royal Ontario Museum.",
+        "type": "Museum skeleton cast photograph",
+        "creator": "Eduard Solà",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:OrnithomimusROM.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
       "references": [
         {
