@@ -32,6 +32,7 @@ const emptyMessage = document.querySelector("#collection-empty");
 const statusMessage = document.querySelector("#collection-status");
 const clearButton = document.querySelector("#clear-filters");
 const pagination = document.querySelector("#pagination");
+const surpriseButton = document.querySelector("#surprise-animal");
 
 let animals = [];
 let activeCategory = "all";
@@ -303,6 +304,16 @@ searchForm.addEventListener("submit", (event) => {
   statusMessage.textContent = query && animals.filter(matchesFilters).length === 0
     ? "No entries matched that search. Try a broader term or clear the filters."
     : "";
+});
+
+surpriseButton?.addEventListener("click", () => {
+  const matches = animals.filter(matchesFilters);
+  if (!matches.length) {
+    statusMessage.textContent = "No animals match the current filters. Clear them to discover a random animal.";
+    return;
+  }
+  const selected = matches[Math.floor(Math.random() * matches.length)];
+  window.location.href = profileHref(selected);
 });
 
 clearButton.addEventListener("click", () => {
