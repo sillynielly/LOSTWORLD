@@ -3950,13 +3950,13 @@
         "Its five eyes and flexible proboscis make it a distinctive Cambrian fossil."
       ],
       "image": {
-        "src": "../assets/images/animals/opabinia-regalis.svg",
-        "alt": "Species-specific placeholder artwork for Opabinia; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Opabinia_smithsonian.JPG",
+        "alt": "Fossil specimen of Opabinia regalis from the Burgess Shale, displayed at the Smithsonian National Museum of Natural History.",
+        "type": "Fossil specimen photograph",
+        "creator": "Jstuby",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Opabinia_smithsonian.JPG",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
       },
       "references": [
         {
@@ -8176,13 +8176,13 @@
         "Its shell shape differs from the tightly coiled ammonites often shown in illustrations."
       ],
       "image": {
-        "src": "../assets/images/animals/scaphites-hippocrepis.svg",
-        "alt": "Species-specific placeholder artwork for Scaphites; not a photograph or scientific reconstruction.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Scaphite_180308.jpg",
+        "alt": "Scaphites fossil from the Cretaceous Pierre Shale of South Dakota; the specimen is identified to genus, not confirmed as Scaphites hippocrepis.",
+        "type": "Fossil specimen photograph (genus-level identification)",
+        "creator": "Vassil",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scaphite_180308.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
       },
       "references": [
         {
@@ -9731,13 +9731,13 @@
         "Its fossils help scientists reconstruct ancient ecosystems."
       ],
       "image": {
-        "src": "../assets/images/animals/interpretive-fossil-plate.svg",
-        "alt": "Interpretive fossil exhibit graphic for Cameroceras; not a photograph or scientific life reconstruction.",
-        "type": "Project-created interpretive fossil plate",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cameroceras_trentoneseNV_2.jpg",
+        "alt": "Life reconstruction of Cameroceras by Offy; the image represents the genus, not a verified reconstruction of one particular species.",
+        "type": "Life reconstruction (genus-level)",
+        "creator": "Offy",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cameroceras_trentoneseNV_2.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "references": [
         {
@@ -9813,13 +9813,13 @@
         "Its fossils help scientists reconstruct ancient ecosystems."
       ],
       "image": {
-        "src": "../assets/images/animals/interpretive-fossil-plate.svg",
-        "alt": "Interpretive fossil exhibit graphic for Eotyrannus; not a photograph or scientific life reconstruction.",
-        "type": "Project-created interpretive fossil plate",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Skeletal_elements_of_Eotyrannus.png",
+        "alt": "Skeletal reconstruction of Eotyrannus lengi showing only the elements preserved in the holotype; some positions are conjectural.",
+        "type": "Skeletal reconstruction",
+        "creator": "Darren Naish and Andrea Cau",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skeletal_elements_of_Eotyrannus.png",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
       },
       "references": [
         {
