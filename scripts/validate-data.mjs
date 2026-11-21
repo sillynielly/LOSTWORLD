@@ -26,7 +26,7 @@ if (animalsData.schemaVersion !== 1 || !Array.isArray(animals) || animals.length
 
     if (!animal.image?.src || !animal.image?.alt) {
       fail(`Missing image source or alt text: ${animal.id}`);
-    } else if (/^https?:\\/\\//i.test(animal.image.src)) {
+    } else if (animal.image.src.startsWith("http://") || animal.image.src.startsWith("https://")) {
       if (!animal.image.sourceUrl || !animal.image.license || !animal.image.licenseUrl) {
         fail(`External image is missing attribution or license details: ${animal.id}`);
       }
