@@ -3464,13 +3464,13 @@
         "The familiar full-body appearance is reconstructed from limited armored remains and comparisons."
       ],
       "image": {
-        "src": "../assets/images/animals/dunkleosteus.svg",
-        "alt": "Species-specific placeholder artwork for Dunkleosteus; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dunkleosteus_terrelli_skull.jpg",
+        "alt": "Dunkleosteus terrelli skull photographed at the Field Museum of Natural History.",
+        "type": "Fossil skull photograph",
+        "creator": "Neptuniandude",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dunkleosteus_terrelli_skull.jpg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
       },
       "references": [
         {
@@ -3788,13 +3788,13 @@
         "Eurypterus remipes is the New York state fossil and is often called a sea scorpion, though it is not a scorpion."
       ],
       "image": {
-        "src": "../assets/images/animals/eurypterus-remipes.svg",
-        "alt": "Species-specific placeholder artwork for Eurypterus; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurypterus_remipes_01.jpg",
+        "alt": "A fossil specimen of Eurypterus remipes, approximately 420 million years old, photographed at Dinoday 2009.",
+        "type": "Fossil specimen photograph",
+        "creator": "Kevmin",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eurypterus_remipes_01.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
       "references": [
         {
@@ -9569,13 +9569,13 @@
         "Its fossils help scientists reconstruct ancient ecosystems."
       ],
       "image": {
-        "src": "../assets/images/animals/interpretive-fossil-plate.svg",
-        "alt": "Interpretive fossil exhibit graphic for Pterygotus; not a photograph or scientific life reconstruction.",
-        "type": "Project-created interpretive fossil plate",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pterygotus_anglicus.JPG",
+        "alt": "Fossil of Pterygotus photographed at the Natural History Museum in London.",
+        "type": "Fossil specimen photograph",
+        "creator": "Ghedoghedo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pterygotus_anglicus.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
       "references": [
         {
