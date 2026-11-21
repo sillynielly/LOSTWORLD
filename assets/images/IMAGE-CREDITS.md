@@ -30,7 +30,6 @@ Per-animal source URLs, licenses, and descriptive alt text are also stored in [`
 
 These project-created SVG plates are explicit placeholders, not animal images. They are labeled with each animal's name and are not represented as photographs or scientific reconstructions.
 
-- Opabinia - project-created, labeled placeholder artwork at assets/images/animals/opabinia-regalis.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
 
 ## Additional sourced images
 
@@ -198,3 +197,9 @@ The 20 new animal entries added in the expansion batch use the shared locally st
 - **Baryonyx (Baryonyx walkeri) —** Reconstruction of the skull based on a cast of the holotype, photographed at Dinosaur Isle museum, by A Cynical Idealist, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Baryonyx_skull_reconstruction.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 - **Paraceratherium (Paraceratherium transouralicum) —** Skull specimen (AMNH 18650) at the American Museum of Natural History, photographed by Jonathan Chen, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Paraceratherium_AMNH.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - **Minmi (Minmi paravertebra) —** Fossil left foot (QM F10329), holotype material, with scale, by Stephen F. Poropat, Phil R. Bell, Lachlan J. Hart, Steven W. Salisbury, and Benjamin P. Kear, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Minmi_left_foot.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+
+- **Opabinia (Opabinia regalis) —** Fossil specimen from the Burgess Shale, displayed at the Smithsonian National Museum of Natural History, photographed by Jstuby, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Opabinia_smithsonian.JPG), public domain.
+- **Scaphites (Scaphites hippocrepis record) —** Cretaceous Scaphites fossil from the Pierre Shale of South Dakota, photographed by Vassil, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Scaphite_180308.jpg), public domain. The image is identified only to genus, not confirmed as S. hippocrepis.
+- **Cameroceras (Cameroceras trentonense record) —** Genus-level life reconstruction by Offy, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Cameroceras_trentoneseNV_2.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). It is not a verified species-specific reconstruction.
+- **Eotyrannus (Eotyrannus lengi) —** Skeletal reconstruction showing elements preserved in the holotype; some positions are conjectural. By Darren Naish and Andrea Cau, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Skeletal_elements_of_Eotyrannus.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
