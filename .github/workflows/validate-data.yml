@@ -1,0 +1,23 @@
+name: Validate LOST WORLD data
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main, "improvements/**"]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Validate animal data and assets
+        run: node scripts/validate-data.mjs
