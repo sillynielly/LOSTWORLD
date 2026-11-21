@@ -401,6 +401,166 @@
       {
         "id": "eotyrannus",
         "era": "Mesozoic"
+      },
+      {
+        "id": "thylacosmilus",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "phorusrhacos",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "kelenken",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "titanis",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "gastornis",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "argentavis",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "pelagornis",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "gigantopithecus",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "sivatherium",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "palaeoloxodon",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "gomphotherium",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "deinotherium",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "uintatherium",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "arsinoitherium",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "chalicotherium",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "entelodon",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "hyaenodon",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "dinocrocuta",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "machairodus",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "homotherium",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "amphicyon",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "borophagus",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "epicyon",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "protocyon",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "andrewarchus",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "megistotherium",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "eobasileus",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "basilosaurus",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "dorudon",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "livyatan",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "leedsichthys",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "jaekelopterus",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "placodus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "nothosaurus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "tanystropheus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "shonisaurus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "rhamphorhynchus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "dimorphodon",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "compsognathus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "procoptodon",
+        "era": "Cenozoic"
       }
     ],
     "historical": [
@@ -495,6 +655,154 @@
       {
         "id": "thylacine",
         "order": 12
+      },
+      {
+        "id": "bali-tiger",
+        "era": "Historical"
+      },
+      {
+        "id": "caspian-tiger",
+        "era": "Historical"
+      },
+      {
+        "id": "javan-tiger",
+        "era": "Historical"
+      },
+      {
+        "id": "japanese-sea-lion",
+        "era": "Historical"
+      },
+      {
+        "id": "sea-mink",
+        "era": "Historical"
+      },
+      {
+        "id": "eastern-hare-wallaby",
+        "era": "Historical"
+      },
+      {
+        "id": "lesser-bilby",
+        "era": "Historical"
+      },
+      {
+        "id": "pig-footed-bandicoot",
+        "era": "Historical"
+      },
+      {
+        "id": "formosan-clouded-leopard",
+        "era": "Historical"
+      },
+      {
+        "id": "syrian-wild-ass",
+        "era": "Historical"
+      },
+      {
+        "id": "desert-rat-kangaroo",
+        "era": "Historical"
+      },
+      {
+        "id": "crescent-nail-tail-wallaby",
+        "era": "Historical"
+      },
+      {
+        "id": "sardinian-pika",
+        "era": "Historical"
+      },
+      {
+        "id": "saudi-gazelle",
+        "era": "Historical"
+      },
+      {
+        "id": "bulldog-rat",
+        "era": "Historical"
+      },
+      {
+        "id": "broad-faced-potoroo",
+        "era": "Historical"
+      },
+      {
+        "id": "maclear-rat",
+        "era": "Historical"
+      },
+      {
+        "id": "desert-bandicoot",
+        "era": "Historical"
+      },
+      {
+        "id": "cuban-macaw",
+        "era": "Historical"
+      },
+      {
+        "id": "reunion-ibis",
+        "era": "Historical"
+      },
+      {
+        "id": "new-zealand-quail",
+        "era": "Historical"
+      },
+      {
+        "id": "spectacled-cormorant",
+        "era": "Historical"
+      },
+      {
+        "id": "laughing-owl",
+        "era": "Historical"
+      },
+      {
+        "id": "bonin-wood-pigeon",
+        "era": "Historical"
+      },
+      {
+        "id": "norfolk-kaka",
+        "era": "Historical"
+      },
+      {
+        "id": "atitlan-grebe",
+        "era": "Historical"
+      },
+      {
+        "id": "new-zealand-bittern",
+        "era": "Historical"
+      },
+      {
+        "id": "st-helena-hoopoe",
+        "era": "Historical"
+      },
+      {
+        "id": "bushwren",
+        "era": "Historical"
+      },
+      {
+        "id": "snail-eating-coua",
+        "era": "Historical"
+      },
+      {
+        "id": "mauritius-blue-pigeon",
+        "era": "Historical"
+      },
+      {
+        "id": "choiseul-pigeon",
+        "era": "Historical"
+      },
+      {
+        "id": "mascarene-parrot",
+        "era": "Historical"
+      },
+      {
+        "id": "guadalupe-caracara",
+        "era": "Historical"
+      },
+      {
+        "id": "newtons-parakeet",
+        "era": "Historical"
+      },
+      {
+        "id": "auckland-island-merganser",
+        "era": "Historical"
+      },
+      {
+        "id": "lord-howe-swamphen",
+        "era": "Historical"
       }
     ]
   },
