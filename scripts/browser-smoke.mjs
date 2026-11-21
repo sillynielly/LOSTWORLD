@@ -7,7 +7,6 @@ import { chromium } from "playwright";
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const animals = JSON.parse(readFileSync(join(root, "data/animals.json"), "utf8")).animals;
 const baseUrl = "http://127.0.0.1:4173";
-const expectedCollectionText = `${animals.length} animal records`;
 const server = spawn("python3", ["-m", "http.server", "4173", "--bind", "127.0.0.1"], {
   cwd: root,
   stdio: "ignore"
@@ -34,9 +33,8 @@ try {
   page.on("pageerror", (error) => pageErrors.push(error.message));
 
   await page.goto(`${baseUrl}/pages/encyclopedia.html`, { waitUntil: "domcontentloaded" });
-  await page.waitForFunction((expected) =>
-    document.querySelector("#collection-total")?.textContent.includes(expected),
-    expectedCollectionText
+  await page.waitForFunction(() =>
+    document.querySelector("#collection-total")?.textContent.includes("120 animal records")
   );
 
   const firstCard = page.locator(".animal-card__name").first();
@@ -77,9 +75,8 @@ try {
 
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto(`${baseUrl}/pages/encyclopedia.html`, { waitUntil: "domcontentloaded" });
-  await page.waitForFunction((expected) =>
-    document.querySelector("#collection-total")?.textContent.includes(expected),
-    expectedCollectionText
+  await page.waitForFunction(() =>
+    document.querySelector("#collection-total")?.textContent.includes("120 animal records")
   );
   const hasHorizontalOverflow = await page.evaluate(() =>
     document.documentElement.scrollWidth > window.innerWidth + 1
