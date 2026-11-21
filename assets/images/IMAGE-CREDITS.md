@@ -31,9 +31,6 @@ Per-animal source URLs, licenses, and descriptive alt text are also stored in [`
 These project-created SVG plates are explicit placeholders, not animal images. They are labeled with each animal's name and are not represented as photographs or scientific reconstructions.
 
 - Woolly rhinoceros - project-created, labeled placeholder artwork at assets/images/animals/woolly-rhinoceros.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
-- Carolina parakeet - project-created, labeled placeholder artwork at assets/images/animals/carolina-parakeet.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
-- Huia - project-created, labeled placeholder artwork at assets/images/animals/huia.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
-- Labrador duck - project-created, labeled placeholder artwork at assets/images/animals/labrador-duck.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
 - Diplodocus - project-created, labeled placeholder artwork at assets/images/animals/diplodocus.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
 - Velociraptor - project-created, labeled placeholder artwork at assets/images/animals/velociraptor.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
 - Mosasaurus - project-created, labeled placeholder artwork at assets/images/animals/mosasaurus.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
@@ -146,3 +143,9 @@ The 20 new animal entries added in the expansion batch use the shared locally st
 - **Giant beaver (Castoroides ohioensis) —** Skeleton displayed at the National Museum of Nature and Science in Tokyo, photographed by Momotarou2012, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Skeleton_of_Castoroides_ohioensis.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 - **Haast's eagle (Hieraaetus moorei) —** Skeletal reconstruction based on figured specimens, by Beyondourworld, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Haast%E2%80%99s_Eagle_Skeletal_Reconstruction.png), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - **Diprotodon (Diprotodon optatum) —** Life reconstruction by Mr Langlois10, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Dirpotodon_optatum.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+
+- **Carolina parakeet (Conuropsis carolinensis) —** Museum specimen at the North Carolina Museum of Natural Sciences, photographed by Ryan Somma, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Carolina_Parakeet_-North_Carolina_Museum.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+- **Huia (Heteralocha acutirostris) —** Specimen at Canterbury Museum, photographed by Szilas, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Huia,_Canterbury_Museum,_2016-01-27.jpg), public domain.
+- **Labrador duck (Camptorhynchus labradorius) —** Specimen at the Field Museum of Natural History in Chicago, photographed by Caleb Putnam, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Labrador_Duck_specimen.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+- **Stephens Island wren (Traversia lyalli) —** Specimen at the Carnegie Museum of Natural History in Pittsburgh, photographed by Avenue, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Stephens_Island_Wren_specimen_1.jpg), [GFDL 1.2](https://www.gnu.org/licenses/old-licenses/fdl-1.2.html).
