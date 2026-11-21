@@ -7,7 +7,7 @@ LOST WORLD is a growing, selected digital natural history archive about extinct 
 ## Features
 
 - Compact, cinematic homepage with a single primary encyclopedia entry point and random animal discovery.
-- Searchable encyclopedia with combined category filters, keyword suggestions, result counts, and 12 animals per page.
+- Searchable encyclopedia with combined category filters, keyword suggestions, alphabetical and chronological sorting, result counts, and 12 animals per page.
 - Individual animal profiles with classification, habitat, range, diet, physical traits, size where supported, extinction evidence, last records, references, and image credits.
 - Discovery Wing with:
   - Animal comparison
@@ -18,6 +18,7 @@ LOST WORLD is a growing, selected digital natural history archive about extinct 
 - Simplified navigation for Home, Encyclopedia, and About, with the five discovery tools under **More discoveries**.
 - Responsive layouts and keyboard-accessible navigation and controls.
 - A canonical JSON collection shared by the encyclopedia, profiles, and discovery experiences.
+- Automated GitHub Actions checks for JavaScript syntax, animal IDs, image paths and credits, and discovery-data references.
 
 ## Technologies
 
