@@ -30,9 +30,6 @@ Per-animal source URLs, licenses, and descriptive alt text are also stored in [`
 
 These project-created SVG plates are explicit placeholders, not animal images. They are labeled with each animal's name and are not represented as photographs or scientific reconstructions.
 
-- Woolly rhinoceros - project-created, labeled placeholder artwork at assets/images/animals/woolly-rhinoceros.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
-- Helicoprion - project-created, labeled placeholder artwork at assets/images/animals/helicoprion.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
-- Dactylioceras - project-created, labeled placeholder artwork at assets/images/animals/dactylioceras-commune.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
 - Opabinia - project-created, labeled placeholder artwork at assets/images/animals/opabinia-regalis.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
 - Eryops - project-created, labeled placeholder artwork at assets/images/animals/eryops.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
 - Beelzebufo - project-created, labeled placeholder artwork at assets/images/animals/beelzebufo.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
@@ -154,3 +151,8 @@ The 20 new animal entries added in the expansion batch use the shared locally st
 - **Dunkleosteus (Dunkleosteus terrelli) —** Fossil skull photographed at the Field Museum of Natural History, by Neptuniandude, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Dunkleosteus_terrelli_skull.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 - **Eurypterus (Eurypterus remipes) —** Fossil specimen photographed by Kevmin, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Eurypterus_remipes_01.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 - **Pterygotus (Pterygotus anglicus) —** Fossil photographed at the Natural History Museum in London, by Ghedoghedo, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Pterygotus_anglicus.JPG), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
+
+- **Woolly rhinoceros (Coelodonta antiquitatis) —** Fossil skeleton photographed by Franco Atirador, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Woolly_Rhino_Skeleton.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+- **Dactylioceras (Dactylioceras commune) —** Ammonite fossil from Whitby, United Kingdom, photographed by Fred Cherrygarden, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Dactylioceras_commune.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- **Helicoprion (Helicoprion sp.) —** Fossil tooth whorl displayed at the Utah Field House of Natural History, photographed by James St. John, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Helicoprion_tooth_whorl.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). The specimen is identified to genus, not to species.
