@@ -1464,7 +1464,7 @@
       ],
       "image": {
         "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Megatherium_americanum.JPG",
-        "alt": "Fossil specimen of Megatherium americanum displayed at the Paleontology Museum of Zurich.",
+        "alt": "Fossil Megatherium specimen photographed at the Paleontology Museum of Zurich.",
         "type": "Fossil specimen photograph",
         "creator": "Ghedoghedo",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Megatherium_americanum.JPG",
@@ -1543,11 +1543,11 @@
         "Despite its common name, it was a giant deer rather than an elk in the modern North American sense."
       ],
       "image": {
-        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Megaloceros_giganteus.jpg",
-        "alt": "Fossil of Megaloceros giganteus photographed at the Museum of Natural History in Brussels.",
-        "type": "Fossil specimen photograph",
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Megaloceros_giganteus_skeleton.JPG",
+        "alt": "Fossil skeleton of Megaloceros giganteus photographed at the Natural History Museum in Paris.",
+        "type": "Fossil skeleton photograph",
         "creator": "Ghedoghedo",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Megaloceros_giganteus.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Megaloceros_giganteus_skeleton.JPG",
         "license": "CC BY-SA 3.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
@@ -1622,13 +1622,13 @@
         "Cave deposits contain many remains, but the reason bears entered or died in each cave is not always clear."
       ],
       "image": {
-        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ursus_spelaeus_Sergiodlarosa.jpg",
-        "alt": "Artist's reconstruction of the extinct European cave bear, Ursus spelaeus.",
-        "type": "Life reconstruction",
-        "creator": "Sergiodlarosa",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ursus_spelaeus_Sergiodlarosa.jpg",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cave_Bear_%28Ursus_Spelaeus%29.JPG",
+        "alt": "Skeleton of a cave bear (Ursus spelaeus) at the Museum of Comparative Anatomy and Palaeontology in Paris.",
+        "type": "Fossil skeleton photograph",
+        "creator": "Seriykotik",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cave_Bear_(Ursus_Spelaeus).JPG",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
       },
       "references": [
         {
@@ -1702,13 +1702,13 @@
         "The common name refers to fossil discoveries and artistic depictions, not proof it lived only in caves."
       ],
       "image": {
-        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Panthera_spelaea.JPG",
-        "alt": "Fossil specimen of Panthera spelaea photographed at the Museum of Paleontology in Florence.",
-        "type": "Fossil specimen photograph",
-        "creator": "Ghedoghedo",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panthera_spelaea.JPG",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%B6hlenl%C3%B6we_Geiseltal.png",
+        "alt": "Skeleton of Panthera spelaea from Neumark-Nord 1, photographed in Halle, Germany.",
+        "type": "Fossil skeleton photograph",
+        "creator": "DagdaMor",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Höhlenlöwe_Geiseltal.png",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
       },
       "references": [
         {
@@ -1781,13 +1781,13 @@
         "Glyptodont armor formed a rigid shell unlike the flexible bands of many living armadillos."
       ],
       "image": {
-        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Glyptodontidae-_Sclerocalyptus_ornatus,_Glyptodon_clavipes,_Panochthus_intermedius,_Doedicurus_clavicaudatus.jpg",
-        "alt": "Museum display of glyptodont fossils, including Glyptodon clavipes, at the Museum of Natural Sciences of La Plata.",
-        "type": "Museum fossil display photograph (includes Glyptodon clavipes)",
-        "creator": "André Ganzarolli Martins",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glyptodontidae-_Sclerocalyptus_ornatus,_Glyptodon_clavipes,_Panochthus_intermedius,_Doedicurus_clavicaudatus.jpg",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/E_-_Glyptodon_clavipes_1.jpg",
+        "alt": "Glyptodon clavipes skull at the Natural History Museum in London.",
+        "type": "Fossil skull photograph",
+        "creator": "Emőke Dénes",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:E_-_Glyptodon_clavipes_1.jpg",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/"
       },
       "references": [
         {
