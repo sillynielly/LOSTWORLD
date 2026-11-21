@@ -31,11 +31,6 @@ Per-animal source URLs, licenses, and descriptive alt text are also stored in [`
 These project-created SVG plates are explicit placeholders, not animal images. They are labeled with each animal's name and are not represented as photographs or scientific reconstructions.
 
 - Woolly rhinoceros - project-created, labeled placeholder artwork at assets/images/animals/woolly-rhinoceros.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
-- Diplodocus - project-created, labeled placeholder artwork at assets/images/animals/diplodocus.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
-- Velociraptor - project-created, labeled placeholder artwork at assets/images/animals/velociraptor.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
-- Mosasaurus - project-created, labeled placeholder artwork at assets/images/animals/mosasaurus.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
-- Ichthyosaurus - project-created, labeled placeholder artwork at assets/images/animals/ichthyosaurus.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
-- Elasmosaurus - project-created, labeled placeholder artwork at assets/images/animals/elasmosaurus.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
 - Dunkleosteus - project-created, labeled placeholder artwork at assets/images/animals/dunkleosteus.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
 - Helicoprion - project-created, labeled placeholder artwork at assets/images/animals/helicoprion.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
 - Dactylioceras - project-created, labeled placeholder artwork at assets/images/animals/dactylioceras-commune.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
@@ -149,3 +144,10 @@ The 20 new animal entries added in the expansion batch use the shared locally st
 - **Huia (Heteralocha acutirostris) —** Specimen at Canterbury Museum, photographed by Szilas, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Huia,_Canterbury_Museum,_2016-01-27.jpg), public domain.
 - **Labrador duck (Camptorhynchus labradorius) —** Specimen at the Field Museum of Natural History in Chicago, photographed by Caleb Putnam, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Labrador_Duck_specimen.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
 - **Stephens Island wren (Traversia lyalli) —** Specimen at the Carnegie Museum of Natural History in Pittsburgh, photographed by Avenue, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Stephens_Island_Wren_specimen_1.jpg), [GFDL 1.2](https://www.gnu.org/licenses/old-licenses/fdl-1.2.html).
+
+
+- **Diplodocus (Diplodocus carnegii) —** Museum skeleton at the Museum für Naturkunde in Berlin, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Diplodocus_Carnegii_skeleton_in_Museum_für_Naturkunde_Berlin_0869.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- **Velociraptor (Velociraptor mongoliensis) —** Skeleton displayed at the Royal Belgian Institute of Natural Sciences, photographed by Eduard Solà Vázquez, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Velociraptor_skeleton.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+- **Mosasaurus (Mosasaurus hoffmannii) —** Fossil skull at the Natural History Museum of Maastricht, photographed by Vassil, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Maastricht_Mosasaurus_26092015_07.jpg), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- **Ichthyosaurus (Ichthyosaurus communis) —** Fossil specimen at Teylers Museum in Haarlem, photographed by Ghedoghedo, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Ichthyosaurus_communis_(fossil).jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+- **Elasmosaurus (Elasmosaurus platyurus) —** Life reconstruction by Connor Ashbridge, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Elasmosaurus_platyurus.png), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
