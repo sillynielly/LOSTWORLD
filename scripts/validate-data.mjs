@@ -16,6 +16,7 @@ if (animalsData.schemaVersion !== 1 || !Array.isArray(animals) || animals.length
   fail("animals.json has an unsupported or empty collection.");
 } else {
   const ids = new Set();
+  const imageSources = new Map();
   for (const animal of animals) {
     if (!animal.id || !animal.commonName || !animal.scientificName) {
       fail("An animal record is missing its ID or name.");
@@ -26,14 +27,23 @@ if (animalsData.schemaVersion !== 1 || !Array.isArray(animals) || animals.length
 
     if (!animal.image?.src || !animal.image?.alt) {
       fail(`Missing image source or alt text: ${animal.id}`);
-    } else if (animal.image.src.startsWith("http://") || animal.image.src.startsWith("https://")) {
-      if (!animal.image.sourceUrl || !animal.image.license || !animal.image.licenseUrl) {
-        fail(`External image is missing attribution or license details: ${animal.id}`);
-      }
     } else {
+      const previousImageUser = imageSources.get(animal.image.src);
+      if (previousImageUser) {
+        fail(`Duplicate animal image source used by ${previousImageUser} and ${animal.id}: ${animal.image.src}`);
+      } else {
+        imageSources.set(animal.image.src, animal.id);
+      }
+      if (!animal.image.sourceUrl || !animal.image.license || !animal.image.licenseUrl) {
+        fail(`Image is missing source attribution or license details: ${animal.id}`);
+      }
+      if (animal.image.src.startsWith("http://") || animal.image.src.startsWith("https://")) {
+        // External image URLs must carry attribution and license metadata above.
+      } else {
       const localPath = normalize(join(root, "pages", animal.image.src));
       if (!localPath.startsWith(root) || !existsSync(localPath)) {
         fail(`Image file does not exist: ${animal.id} -> ${animal.image.src}`);
+      }
       }
     }
 
