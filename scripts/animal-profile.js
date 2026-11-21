@@ -87,6 +87,9 @@ function renderImage(animal) {
   } else {
     caption.append(element("span", "profile-visual__credit", `${animal.image.creator || "Image creator not listed"} · ${animal.image.license || "License not listed"}. No external species image has been sourced for this entry.`));
   }
+  if (animal.image.recordUrl) {
+    caption.append(document.createTextNode(" "), externalLink(animal.image.recordUrl, animal.image.recordLabel || "Related specimen record ↗"));
+  }
 
   figure.append(imageWrap, caption);
   return figure;
