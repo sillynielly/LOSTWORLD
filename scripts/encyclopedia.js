@@ -33,11 +33,13 @@ const statusMessage = document.querySelector("#collection-status");
 const clearButton = document.querySelector("#clear-filters");
 const pagination = document.querySelector("#pagination");
 const surpriseButton = document.querySelector("#surprise-animal");
+const sortSelect = document.querySelector("#sort-animals");
 
 let animals = [];
 let activeCategory = "all";
 let query = "";
 let currentPage = 1;
+let sortMode = "name";
 
 function createText(tagName, className, text) {
   const element = document.createElement(tagName);
@@ -219,7 +221,11 @@ function changePage(page) {
 }
 
 function renderCollection() {
-  const matches = animals.filter(matchesFilters);
+  const matches = animals.filter(matchesFilters).slice().sort((a, b) => {
+    if (sortMode === "oldest") return b.period.sortMa - a.period.sortMa;
+    if (sortMode === "newest") return a.period.sortMa - b.period.sortMa;
+    return a.commonName.localeCompare(b.commonName);
+  });
   const pageCount = Math.max(1, Math.ceil(matches.length / pageSize));
   currentPage = Math.min(currentPage, pageCount);
   const start = (currentPage - 1) * pageSize;
@@ -287,6 +293,12 @@ async function initialize() {
     console.error(error);
   }
 }
+
+sortSelect?.addEventListener("change", () => {
+  sortMode = sortSelect.value;
+  currentPage = 1;
+  renderCollection();
+});
 
 searchInput.addEventListener("input", () => {
   query = searchInput.value.trim().toLocaleLowerCase();
