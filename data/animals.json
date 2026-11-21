@@ -2021,13 +2021,13 @@
         "Some preserved specimens retain hair and soft tissue."
       ],
       "image": {
-        "src": "../assets/images/animals/woolly-rhinoceros.svg",
-        "alt": "Species-specific placeholder artwork for Woolly rhinoceros; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Woolly_Rhino_Skeleton.jpg",
+        "alt": "Skeleton of the woolly rhinoceros (Coelodonta antiquitatis).",
+        "type": "Fossil skeleton photograph",
+        "creator": "Franco Atirador",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Woolly_Rhino_Skeleton.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
       "references": [
         {
@@ -3545,13 +3545,13 @@
         "The spiral tooth structure was reconstructed in several positions before better fossils clarified its placement."
       ],
       "image": {
-        "src": "../assets/images/animals/helicoprion.svg",
-        "alt": "Species-specific placeholder artwork for Helicoprion; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Helicoprion_tooth_whorl.jpg",
+        "alt": "Fossil tooth whorl of Helicoprion sp. displayed at the Utah Field House of Natural History.",
+        "type": "Fossil tooth-whorl photograph",
+        "creator": "James St. John",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Helicoprion_tooth_whorl.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
       },
       "references": [
         {
@@ -3707,13 +3707,13 @@
         "Ammonite shell forms can help paleontologists correlate rock layers across regions."
       ],
       "image": {
-        "src": "../assets/images/animals/dactylioceras-commune.svg",
-        "alt": "Species-specific placeholder artwork for Dactylioceras; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dactylioceras_commune.jpg",
+        "alt": "Dactylioceras commune ammonite fossil found in Whitby, United Kingdom.",
+        "type": "Fossil specimen photograph",
+        "creator": "Fred Cherrygarden",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dactylioceras_commune.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "references": [
         {
