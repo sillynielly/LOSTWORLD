@@ -85,7 +85,7 @@
           <section class="collection-results" aria-label="Animal search results">
             <div class="collection-results__meta">
               <p class="collection-results__count" id="results-count" aria-live="polite"></p>
-              <div class="collection-results__actions"><button class="collection-results__surprise" id="surprise-animal" type="button">Surprise me ↗</button><button class="collection-results__clear" id="clear-filters" type="button">Clear search and filters</button></div>
+              <div class="collection-results__actions"><label class="collection-results__sort-label" for="sort-animals">Sort by</label><select class="collection-results__sort" id="sort-animals" name="sort"><option value="name">Name (A–Z)</option><option value="oldest">Oldest first</option><option value="newest">Most recent first</option></select><button class="collection-results__surprise" id="surprise-animal" type="button">Surprise me ↗</button><button class="collection-results__clear" id="clear-filters" type="button">Clear search and filters</button></div>
             </div>
             <div class="animal-grid" id="animal-grid"></div>
             <p class="collection-empty" id="collection-empty" hidden>
