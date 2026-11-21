@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#17251e">
+    <meta
+      name="description"
+      content="Explore extinct animals through a clear, referenced natural history encyclopedia."
+    >
+    <title>LOST WORLD — A history worth discovering</title>
+    <link rel="preload" href="assets/images/spinosaurus-aegyptiacus.png" as="image" type="image/png">
+    <link rel="stylesheet" href="styles/base.css">
+    <link rel="stylesheet" href="styles/archive.css">
+    <link rel="stylesheet" href="styles/home.css">
+    <script type="module" src="scripts/site-nav.js"></script>
+    <script type="module" src="scripts/home.js"></script>
+  </head>
+  <body class="home-page">
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <header class="museum-header home-header" id="top">
+      <a class="museum-brand" href="#home" aria-label="LOST WORLD home">
+        <svg class="museum-brand__mark" viewBox="0 0 44 44" aria-hidden="true">
+          <circle cx="22" cy="22" r="19.5" />
+          <path d="M9 24c6-1 7-10 13-10s7 16 13 16M10 31c5-1 7-7 12-7s7 6 12 6M22 8v5m0 18v5" />
+          <circle cx="22" cy="22" r="2" />
+        </svg>
+        <span>LOST <b>WORLD</b></span>
+      </a>
+      <button class="museum-menu-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation" aria-label="Open navigation">
+        <span></span><span></span>
+      </button>
+      <nav class="museum-nav" id="primary-navigation" aria-label="Main navigation">
+        <a href="#home" aria-current="page">Home</a>
+        <a href="pages/encyclopedia.html">Encyclopedia</a>
+        <a href="pages/about.html">About</a>
+        <details class="museum-nav__more">
+          <summary>More discoveries</summary>
+          <ul class="museum-nav__menu">
+            <li><a href="pages/experiences.html">All discoveries</a></li>
+            <li><a href="pages/compare.html">Comparison</a></li>
+            <li><a href="pages/timeline.html">Timeline</a></li>
+            <li><a href="pages/gallery.html">Gallery</a></li>
+            <li><a href="pages/map.html">Map</a></li>
+            <li><a href="pages/quiz.html">Quiz</a></li>
+          </ul>
+        </details>
+      </nav>
+    </header>
+
+    <main id="main-content">
+      <section class="home-hero" id="home" aria-labelledby="home-title">
+        <div class="home-hero__atmosphere" aria-hidden="true">
+          <span></span><span></span><span></span>
+        </div>
+        <figure class="home-hero__specimen">
+          <img
+            src="assets/images/spinosaurus-aegyptiacus.png"
+            alt="Scientific reconstruction of Spinosaurus aegyptiacus with a tall back sail and long tail."
+            width="1800"
+            height="1110"
+            fetchpriority="high"
+          >
+          <figcaption>
+            <i>Spinosaurus aegyptiacus</i>
+            <a href="https://commons.wikimedia.org/wiki/File:Spinosaurus_aegyptiacus_3.png" target="_blank" rel="noreferrer">
+              Image credit · Gustavo Monroy-Becerril, CC BY-SA 4.0 <span aria-hidden="true">↗</span>
+            </a>
+          </figcaption>
+        </figure>
+
+        <div class="home-hero__content">
+          <p class="eyebrow">A digital natural history encyclopedia</p>
+          <h1 id="home-title">LOST<br><em>WORLD</em></h1>
+          <p class="home-hero__tagline">A world that once was. A history worth discovering.</p>
+          <p class="home-hero__introduction">
+            Meet extinct animals through clear profiles, scientific evidence, and the traces they left behind.
+            Facts, estimates, and unknowns are kept distinct.
+          </p>
+          <a class="home-hero__action" href="pages/encyclopedia.html">
+            Explore animals <span aria-hidden="true">→</span>
+          </a>
+          <a class="home-hero__surprise" id="home-random" href="pages/encyclopedia.html">Or discover one at random <span aria-hidden="true">↗</span></a>
+          <p class="home-hero__status" id="home-status" role="status" aria-live="polite"></p>
+        </div>
+        <span class="home-hero__index" aria-hidden="true">FIELD GUIDE / 01</span>
+      </section>
+    </main>
+
+    <footer class="home-footer">
+      <span>LOST WORLD · An educational archive of extinct life</span>
+      <a href="pages/about.html">About the project</a>
+      <a href="assets/images/IMAGE-CREDITS.md">Image credits</a>
+    </footer>
+  </body>
+</html>
