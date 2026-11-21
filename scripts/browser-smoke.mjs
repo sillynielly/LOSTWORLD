@@ -34,7 +34,7 @@ try {
 
   await page.goto(`${baseUrl}/pages/encyclopedia.html`, { waitUntil: "domcontentloaded" });
   await page.waitForFunction(() =>
-    document.querySelector("#collection-total")?.textContent.includes("120 animal records")
+    document.querySelector("#collection-total")?.textContent.includes(`${animals.length} animal records`)
   );
 
   const firstCard = page.locator(".animal-card__name").first();
@@ -76,7 +76,7 @@ try {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto(`${baseUrl}/pages/encyclopedia.html`, { waitUntil: "domcontentloaded" });
   await page.waitForFunction(() =>
-    document.querySelector("#collection-total")?.textContent.includes("120 animal records")
+    document.querySelector("#collection-total")?.textContent.includes(`${animals.length} animal records`)
   );
   const hasHorizontalOverflow = await page.evaluate(() =>
     document.documentElement.scrollWidth > window.innerWidth + 1
