@@ -135,3 +135,8 @@ These project-created SVG plates are explicit placeholders, not animal images. T
 - **Acanthoceras (Acanthoceras jukesbrownei) —** Fossil specimen photograph, by Motekov, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:ACANTHOCERAS_JUKESBROWNEI_(SPATH)_NOVACHENE_PLEVEN_PROV._CENOMANIAN_AR_SUMPHG.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Local file: `assets/images/animals/acanthoceras-jukesbrownei.jpg`.
 - **Baculites (Baculites compressus)** — project-created species-specific placeholder at `assets/images/animals/baculites-compressus.svg`. It is not a photograph or scientific reconstruction; Commons requests were rate-limited and not retried.
 - **Scaphites (Scaphites hippocrepis)** — project-created species-specific placeholder at `assets/images/animals/scaphites-hippocrepis.svg`. It is not a photograph or scientific reconstruction; the available Commons specimens were not verified to species.
+
+
+## Additional collection expansion — interpretive image plate
+
+The 20 new animal entries added in the expansion batch use the shared locally stored file `assets/images/animals/interpretive-fossil-plate.svg`. This is a project-created decorative archive plate, not a fossil photograph, specimen image, or scientific life reconstruction. Each profile names its animal in text; the plate itself is intentionally generic until a verified species-appropriate visual with reusable licensing can be sourced.
