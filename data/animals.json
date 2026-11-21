@@ -6130,13 +6130,13 @@
         "It was the only Australian parrot known to nest in termite mounds."
       ],
       "image": {
-        "src": "../assets/images/animals/psephotellus-pulcherrimus.svg",
-        "alt": "Species-specific placeholder artwork for Paradise parrot; not a photograph or scientific reconstruction.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Naturalis_Biodiversity_Center_-_RMNH.AVES.110113_-_Psephotus_pulcherrimus_%28Gould%2C_1845%29_-_Paradise_Parrot_-_specimen_-_lateral_view_%28cropped%29.jpeg",
+        "alt": "Preserved Paradise parrot specimen from the Naturalis Biodiversity Center collection.",
+        "type": "Museum specimen photograph",
+        "creator": "Huub Veldhuijzen van Zanten / Naturalis Biodiversity Center",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.110113_-_Psephotus_pulcherrimus_(Gould,_1845)_-_Paradise_Parrot_-_specimen_-_lateral_view_(cropped).jpeg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
       "references": [
         {
@@ -7933,13 +7933,13 @@
         "Pyritized specimens preserve appendages and delicate structures rarely visible in ordinary trilobite fossils."
       ],
       "image": {
-        "src": "../assets/images/animals/triarthrus-eatoni.svg",
-        "alt": "Species-specific placeholder artwork for Triarthrus; not a photograph or scientific reconstruction.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Triarthrus_eatoni_%28YPM_IP_000228%29.jpg",
+        "alt": "Triarthrus eatoni fossil specimen from the Yale Peabody Museum collection, photographed by Susan H. Butts.",
+        "type": "Fossil specimen photograph",
+        "creator": "Susan H. Butts",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Triarthrus_eatoni_(YPM_IP_000228).jpg",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
       },
       "references": [
         {
@@ -9650,13 +9650,13 @@
         "Its fossils help scientists reconstruct ancient ecosystems."
       ],
       "image": {
-        "src": "../assets/images/animals/interpretive-fossil-plate.svg",
-        "alt": "Interpretive fossil exhibit graphic for Orthoceras; not a photograph or scientific life reconstruction.",
-        "type": "Project-created interpretive fossil plate",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Orthoceras_fossil.jpg",
+        "alt": "Orthoceras fossil photographed at the California Academy of Sciences in San Francisco.",
+        "type": "Fossil specimen photograph",
+        "creator": "Sanjay Acharya",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orthoceras_fossil.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "references": [
         {
