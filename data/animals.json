@@ -2496,13 +2496,13 @@
         "It was one of the few parrot species native to the continental United States."
       ],
       "image": {
-        "src": "../assets/images/animals/carolina-parakeet.svg",
-        "alt": "Species-specific placeholder artwork for Carolina parakeet; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Carolina_Parakeet_-North_Carolina_Museum.jpg",
+        "alt": "Stuffed Carolina parakeet specimen at the North Carolina Museum of Natural Sciences.",
+        "type": "Museum specimen photograph",
+        "creator": "Ryan Somma",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carolina_Parakeet_-North_Carolina_Museum.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
       },
       "references": [
         {
@@ -2576,13 +2576,13 @@
         "Male and female bill shapes differed, likely allowing complementary feeding."
       ],
       "image": {
-        "src": "../assets/images/animals/huia.svg",
-        "alt": "Species-specific placeholder artwork for Huia; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Huia%2C_Canterbury_Museum%2C_2016-01-27.jpg",
+        "alt": "Huia specimen displayed at Canterbury Museum, photographed by Szilas.",
+        "type": "Museum specimen photograph",
+        "creator": "Szilas",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huia,_Canterbury_Museum,_2016-01-27.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
       },
       "references": [
         {
@@ -2655,13 +2655,13 @@
         "It remains one of North America's least-understood extinct birds because few specimens were collected."
       ],
       "image": {
-        "src": "../assets/images/animals/labrador-duck.svg",
-        "alt": "Species-specific placeholder artwork for Labrador duck; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Labrador_Duck_specimen.jpg",
+        "alt": "Labrador duck specimen at the Field Museum of Natural History in Chicago.",
+        "type": "Museum specimen photograph",
+        "creator": "Caleb Putnam",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Labrador_Duck_specimen.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
       },
       "references": [
         {
@@ -6050,13 +6050,13 @@
         "The familiar story that one lighthouse keeper's cat alone caused the extinction is not supported by the full historical record."
       ],
       "image": {
-        "src": "../assets/images/animals/traversia-lyalli.svg",
-        "alt": "Species-specific placeholder artwork for Stephens Island wren; not a photograph or scientific reconstruction.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Stephens_Island_Wren_specimen_1.jpg",
+        "alt": "Stephens Island wren specimen displayed at the Carnegie Museum of Natural History in Pittsburgh.",
+        "type": "Museum specimen photograph",
+        "creator": "Avenue",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stephens_Island_Wren_specimen_1.jpg",
+        "license": "GFDL 1.2",
+        "licenseUrl": "https://www.gnu.org/licenses/old-licenses/fdl-1.2.html"
       },
       "references": [
         {
