@@ -1463,13 +1463,13 @@
         "Its large claws do not by themselves prove a predatory diet."
       ],
       "image": {
-        "src": "../assets/images/animals/giant-ground-sloth.svg",
-        "alt": "Species-specific placeholder artwork for Giant ground sloth; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Megatherium_americanum.JPG",
+        "alt": "Fossil specimen of Megatherium americanum displayed at the Paleontology Museum of Zurich.",
+        "type": "Fossil specimen photograph",
+        "creator": "Ghedoghedo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Megatherium_americanum.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
       "references": [
         {
@@ -1543,13 +1543,13 @@
         "Despite its common name, it was a giant deer rather than an elk in the modern North American sense."
       ],
       "image": {
-        "src": "../assets/images/animals/irish-elk.svg",
-        "alt": "Species-specific placeholder artwork for Irish elk; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Megaloceros_giganteus.jpg",
+        "alt": "Fossil of Megaloceros giganteus photographed at the Museum of Natural History in Brussels.",
+        "type": "Fossil specimen photograph",
+        "creator": "Ghedoghedo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Megaloceros_giganteus.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
       "references": [
         {
@@ -1622,13 +1622,13 @@
         "Cave deposits contain many remains, but the reason bears entered or died in each cave is not always clear."
       ],
       "image": {
-        "src": "../assets/images/animals/cave-bear.svg",
-        "alt": "Species-specific placeholder artwork for Cave bear; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ursus_spelaeus_Sergiodlarosa.jpg",
+        "alt": "Artist's reconstruction of the extinct European cave bear, Ursus spelaeus.",
+        "type": "Life reconstruction",
+        "creator": "Sergiodlarosa",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ursus_spelaeus_Sergiodlarosa.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
       "references": [
         {
@@ -1702,13 +1702,13 @@
         "The common name refers to fossil discoveries and artistic depictions, not proof it lived only in caves."
       ],
       "image": {
-        "src": "../assets/images/animals/cave-lion.svg",
-        "alt": "Species-specific placeholder artwork for Cave lion; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Panthera_spelaea.JPG",
+        "alt": "Fossil specimen of Panthera spelaea photographed at the Museum of Paleontology in Florence.",
+        "type": "Fossil specimen photograph",
+        "creator": "Ghedoghedo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panthera_spelaea.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
       "references": [
         {
@@ -1781,13 +1781,13 @@
         "Glyptodont armor formed a rigid shell unlike the flexible bands of many living armadillos."
       ],
       "image": {
-        "src": "../assets/images/animals/glyptodon-clavipes.svg",
-        "alt": "Species-specific placeholder artwork for Glyptodon; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Glyptodontidae-_Sclerocalyptus_ornatus,_Glyptodon_clavipes,_Panochthus_intermedius,_Doedicurus_clavicaudatus.jpg",
+        "alt": "Museum display of glyptodont fossils, including Glyptodon clavipes, at the Museum of Natural Sciences of La Plata.",
+        "type": "Museum fossil display photograph (includes Glyptodon clavipes)",
+        "creator": "André Ganzarolli Martins",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glyptodontidae-_Sclerocalyptus_ornatus,_Glyptodon_clavipes,_Panochthus_intermedius,_Doedicurus_clavicaudatus.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "references": [
         {
