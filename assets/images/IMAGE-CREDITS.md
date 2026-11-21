@@ -30,11 +30,6 @@ Per-animal source URLs, licenses, and descriptive alt text are also stored in [`
 
 These project-created SVG plates are explicit placeholders, not animal images. They are labeled with each animal's name and are not represented as photographs or scientific reconstructions.
 
-- Giant ground sloth - project-created, labeled placeholder artwork at assets/images/animals/giant-ground-sloth.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
-- Irish elk - project-created, labeled placeholder artwork at assets/images/animals/irish-elk.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
-- Cave bear - project-created, labeled placeholder artwork at assets/images/animals/cave-bear.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
-- Cave lion - project-created, labeled placeholder artwork at assets/images/animals/cave-lion.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
-- Glyptodon - project-created, labeled placeholder artwork at assets/images/animals/glyptodon-clavipes.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
 - Diprotodon - project-created, labeled placeholder artwork at assets/images/animals/diprotodon-optatum.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
 - Woolly rhinoceros - project-created, labeled placeholder artwork at assets/images/animals/woolly-rhinoceros.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
 - Giant beaver - project-created, labeled placeholder artwork at assets/images/animals/giant-beaver.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
@@ -140,3 +135,12 @@ These project-created SVG plates are explicit placeholders, not animal images. T
 ## Additional collection expansion — interpretive image plate
 
 The 20 new animal entries added in the expansion batch use the shared locally stored file `assets/images/animals/interpretive-fossil-plate.svg`. This is a project-created decorative archive plate, not a fossil photograph, specimen image, or scientific life reconstruction. Each profile names its animal in text; the plate itself is intentionally generic until a verified species-appropriate visual with reusable licensing can be sourced.
+
+
+## Verified fossil image additions
+
+- **Giant ground sloth (Megatherium americanum) —** Fossil specimen photographed at the Paleontology Museum of Zurich, by Ghedoghedo, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Megatherium_americanum.JPG), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Displayed as a fossil specimen, not a life reconstruction.
+- **Irish elk (Megaloceros giganteus) —** Fossil skeleton photographed at the Natural History Museum in Paris, by Ghedoghedo, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Megaloceros_giganteus_skeleton.JPG), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+- **Cave bear (Ursus spelaeus) —** Fossil skeleton photographed at the Museum of Comparative Anatomy and Palaeontology in Paris, by Seriykotik, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Cave_Bear_(Ursus_Spelaeus).JPG), public domain.
+- **Cave lion (Panthera spelaea) —** Fossil skeleton from Neumark-Nord 1, photographed in Halle, Germany, by DagdaMor, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Höhlenlöwe_Geiseltal.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- **Glyptodon (Glyptodon clavipes) —** Fossil skull at the Natural History Museum in London, by Emőke Dénes, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:E_-_Glyptodon_clavipes_1.jpg), [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/).
