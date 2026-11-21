@@ -8343,13 +8343,13 @@
         "Its fossils help scientists reconstruct ancient ecosystems."
       ],
       "image": {
-        "src": "../assets/images/animals/interpretive-fossil-plate.svg",
-        "alt": "Interpretive fossil exhibit graphic for Carnotaurus; not a photograph or scientific life reconstruction.",
-        "type": "Project-created interpretive fossil plate",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Carnotaurus_sastrei_skeleton.jpg",
+        "alt": "Carnotaurus sastrei skeleton.",
+        "type": "Museum skeleton photograph",
+        "creator": "ケラトプスユウタ",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carnotaurus_sastrei_skeleton.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "references": [
         {
@@ -8425,13 +8425,13 @@
         "Its fossils help scientists reconstruct ancient ecosystems."
       ],
       "image": {
-        "src": "../assets/images/animals/interpretive-fossil-plate.svg",
-        "alt": "Interpretive fossil exhibit graphic for Iguanodon; not a photograph or scientific life reconstruction.",
-        "type": "Project-created interpretive fossil plate",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Iguanodon_bernissartensis_-_Natural_History_Museum%2C_London_-_DSC05220.jpg",
+        "alt": "Iguanodon bernissartensis exhibit at the Natural History Museum in London.",
+        "type": "Museum skeleton exhibit photograph",
+        "creator": "Daderot",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iguanodon_bernissartensis_-_Natural_History_Museum,_London_-_DSC05220.jpg",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
       },
       "references": [
         {
@@ -8507,13 +8507,13 @@
         "Its fossils help scientists reconstruct ancient ecosystems."
       ],
       "image": {
-        "src": "../assets/images/animals/interpretive-fossil-plate.svg",
-        "alt": "Interpretive fossil exhibit graphic for Dilophosaurus; not a photograph or scientific life reconstruction.",
-        "type": "Project-created interpretive fossil plate",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Life_reconstruction_of_Dilophosaurus_wetherilli.png",
+        "alt": "Life reconstruction of Dilophosaurus wetherilli by Connor Ashbridge.",
+        "type": "Life reconstruction",
+        "creator": "Connor Ashbridge",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Life_reconstruction_of_Dilophosaurus_wetherilli.png",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
       },
       "references": [
         {
@@ -8589,13 +8589,13 @@
         "Its fossils help scientists reconstruct ancient ecosystems."
       ],
       "image": {
-        "src": "../assets/images/animals/interpretive-fossil-plate.svg",
-        "alt": "Interpretive fossil exhibit graphic for Therizinosaurus; not a photograph or scientific life reconstruction.",
-        "type": "Project-created interpretive fossil plate",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Therizinosaurus_cheloniformis.JPG",
+        "alt": "Fossil of Therizinosaurus photographed at the Dinosaur Museum Aathal.",
+        "type": "Fossil specimen photograph",
+        "creator": "Ghedoghedo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Therizinosaurus_cheloniformis.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
       "references": [
         {
