@@ -52,9 +52,9 @@ Serve the folder over HTTP rather than opening pages as `file://`; the website l
 
 ## Collection
 
-The expandable collection currently contains **120 unique animal records** in `data/animals.json`. It spans mammals, birds, reptiles, dinosaurs, marine animals, fish, amphibians, and invertebrates across geological time and recent history. Category tags overlap (for example, dinosaurs are also reptiles): mammals 27, birds 17, reptiles 43, dinosaurs 31, marine animals 31, fish 8, amphibians 7, and invertebrates 18. The encyclopedia combines dinosaurs and reptiles into one browse filter to avoid a crowded control row.
+The expandable collection currently contains **123 unique animal records** in `data/animals.json`. It spans mammals, birds, reptiles, dinosaurs, marine animals, fish, amphibians, and invertebrates across geological time and recent history. Category tags overlap (for example, dinosaurs are also reptiles): mammals 27, birds 17, reptiles 43, dinosaurs 31, marine animals 31, fish 8, amphibians 7, and invertebrates 18. The encyclopedia combines dinosaurs and reptiles into one browse filter to avoid a crowded control row.
 
-Currently, **119 records use sourced images** and **1 uses a clearly labeled project-created placeholder plate**. Project-created illustrations are not presented as photographs or scientific reconstructions. The per-species list and attribution details are in `assets/images/IMAGE-CREDITS.md`; source URLs, licenses, and alt text are also stored in the corresponding records in `data/animals.json`.
+All **123 animal records currently have sourced images** with source URLs and license details. Images include museum specimens, fossils, historical illustrations, and life reconstructions; the image type is identified in each record so specimen photographs are not mistaken for living-animal reconstructions. The per-species list and attribution details are in `assets/images/IMAGE-CREDITS.md`; source URLs, licenses, and alt text are also stored in the corresponding records in `data/animals.json`.
 
 The collection is deliberately expandable: add a uniquely identified, referenced animal record to `data/animals.json` and update related timeline, map, or quiz data in `data/discovery-features.json` as appropriate. Follow the existing record format and keep uncertain or unavailable information explicit.
 
