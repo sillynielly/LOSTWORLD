@@ -1,1061 +1,1137 @@
 {
-    "schemaVersion":  1,
-    "timeline":  {
-                     "deepTime":  [
-                                      {
-                                          "id":  "pikaia-gracilens",
-                                          "era":  "Paleozoic"
-                                      },
-                                      {
-                                          "id":  "marrella-splendens",
-                                          "era":  "Paleozoic"
-                                      },
-                                      {
-                                          "id":  "wiwaxia-corrugata",
-                                          "era":  "Paleozoic"
-                                      },
-                                      {
-                                          "id":  "opabinia-regalis",
-                                          "era":  "Paleozoic"
-                                      },
-                                      {
-                                          "id":  "olenoides-serratus",
-                                          "era":  "Paleozoic"
-                                      },
-                                      {
-                                          "id":  "hallucigenia-sparsa",
-                                          "era":  "Paleozoic"
-                                      },
-                                      {
-                                          "id":  "anomalocaris-canadensis",
-                                          "era":  "Paleozoic"
-                                      },
-                                      {
-                                          "id":  "ottoia-prolifica",
-                                          "era":  "Paleozoic"
-                                      },
-                                      {
-                                          "id":  "triarthrus-eatoni",
-                                          "era":  "Paleozoic"
-                                      },
-                                      {
-                                          "id":  "calymene-trilobite",
-                                          "era":  "Paleozoic"
-                                      },
-                                      {
-                                          "id":  "eurypterus-remipes",
-                                          "era":  "Paleozoic"
-                                      },
-                                      {
-                                          "id":  "tiktaalik-roseae",
-                                          "era":  "Paleozoic"
-                                      },
-                                      {
-                                          "id":  "dunkleosteus",
-                                          "era":  "Paleozoic"
-                                      },
-                                      {
-                                          "id":  "gerobatrachus-hottoni",
-                                          "era":  "Paleozoic"
-                                      },
-                                      {
-                                          "id":  "cacops-aspidephorus",
-                                          "era":  "Paleozoic"
-                                      },
-                                      {
-                                          "id":  "eryops",
-                                          "era":  "Paleozoic"
-                                      },
-                                      {
-                                          "id":  "helicoprion",
-                                          "era":  "Paleozoic"
-                                      },
-                                      {
-                                          "id":  "prionosuchus-plummeri",
-                                          "era":  "Paleozoic"
-                                      },
-                                      {
-                                          "id":  "diplocaulus",
-                                          "era":  "Paleozoic"
-                                      },
-                                      {
-                                          "id":  "coelophysis-bauri",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "ichthyosaurus",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "plesiosaurus",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "dactylioceras-commune",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "diplodocus",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "stegosaurus",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "brachiosaurus-altithorax",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "apatosaurus-louisae",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "allosaurus",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "archaeopteryx",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "koolasuchus-cleelandi",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "sarcosuchus-imperator",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "deinonychus-antirrhopus",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "acanthoceras-jukesbrownei",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "giganotosaurus-carolinii",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "spinosaurus",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "argentinosaurus-huinculensis",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "enchodus-petrosus",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "scaphites-hippocrepis",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "cretoxyrhina-mantelli",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "pteranodon",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "xiphactinus",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "tylosaurus-proriger",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "elasmosaurus",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "archelon-ischyros",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "baculites-compressus",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "deinosuchus-riograndensis",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "parasaurolophus-walkeri",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "oviraptor-philoceratops",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "squalicorax-pristodontus",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "velociraptor",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "mosasaurus",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "beelzebufo",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "ankylosaurus",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "tyrannosaurus-rex",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "triceratops",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "edmontosaurus-annectens",
-                                          "era":  "Mesozoic"
-                                      },
-                                      {
-                                          "id":  "titanoboa-cerrejonensis",
-                                          "era":  "Cenozoic"
-                                      },
-                                      {
-                                          "id":  "stupendemys-geographicus",
-                                          "era":  "Cenozoic"
-                                      },
-                                      {
-                                          "id":  "megalodon",
-                                          "era":  "Cenozoic"
-                                      },
-                                      {
-                                          "id":  "homo-luzonensis",
-                                          "era":  "Cenozoic"
-                                      },
-                                      {
-                                          "id":  "varanus-priscus",
-                                          "era":  "Cenozoic"
-                                      },
-                                      {
-                                          "id":  "diprotodon-optatum",
-                                          "era":  "Cenozoic"
-                                      },
-                                      {
-                                          "id":  "thylacoleo-carnifex",
-                                          "era":  "Cenozoic"
-                                      },
-                                      {
-                                          "id":  "cave-bear",
-                                          "era":  "Cenozoic"
-                                      },
-                                      {
-                                          "id":  "arctodus-simus",
-                                          "era":  "Cenozoic"
-                                      },
-                                      {
-                                          "id":  "woolly-rhinoceros",
-                                          "era":  "Cenozoic"
-                                      },
-                                      {
-                                          "id":  "cave-lion",
-                                          "era":  "Cenozoic"
-                                      },
-                                      {
-                                          "id":  "mammuthus-columbi",
-                                          "era":  "Cenozoic"
-                                      },
-                                      {
-                                          "id":  "eremotherium-laurillardi",
-                                          "era":  "Cenozoic"
-                                      },
-                                      {
-                                          "id":  "smilodon",
-                                          "era":  "Cenozoic"
-                                      },
-                                      {
-                                          "id":  "mammut-americanum",
-                                          "era":  "Cenozoic"
-                                      },
-                                      {
-                                          "id":  "dire-wolf",
-                                          "era":  "Cenozoic"
-                                      },
-                                      {
-                                          "id":  "giant-beaver",
-                                          "era":  "Cenozoic"
-                                      },
-                                      {
-                                          "id":  "glyptodon-clavipes",
-                                          "era":  "Cenozoic"
-                                      },
-                                      {
-                                          "id":  "giant-ground-sloth",
-                                          "era":  "Cenozoic"
-                                      },
-                                      {
-                                          "id":  "irish-elk",
-                                          "era":  "Cenozoic"
-                                      },
-                                      {
-                                          "id":  "woolly-mammoth",
-                                          "era":  "Cenozoic"
-                                      }
-                                  ],
-                     "historical":  [
-                                        {
-                                            "id":  "elephant-bird",
-                                            "order":  1
-                                        },
-                                        {
-                                            "id":  "south-island-moa",
-                                            "order":  2
-                                        },
-                                        {
-                                            "id":  "megalapteryx-didinus",
-                                            "era":  "Historical"
-                                        },
-                                        {
-                                            "id":  "emeus-crassus",
-                                            "era":  "Historical"
-                                        },
-                                        {
-                                            "id":  "haasts-eagle",
-                                            "order":  3
-                                        },
-                                        {
-                                            "id":  "bos-primigenius",
-                                            "era":  "Historical"
-                                        },
-                                        {
-                                            "id":  "dodo",
-                                            "order":  4
-                                        },
-                                        {
-                                            "id":  "pezophaps-solitaria",
-                                            "era":  "Historical"
-                                        },
-                                        {
-                                            "id":  "aphanapteryx-bonasia",
-                                            "era":  "Historical"
-                                        },
-                                        {
-                                            "id":  "stellers-sea-cow",
-                                            "order":  5
-                                        },
-                                        {
-                                            "id":  "hippotragus-leucophaeus",
-                                            "era":  "Historical"
-                                        },
-                                        {
-                                            "id":  "great-auk",
-                                            "order":  6
-                                        },
-                                        {
-                                            "id":  "dusicyon-australis",
-                                            "era":  "Historical"
-                                        },
-                                        {
-                                            "id":  "labrador-duck",
-                                            "order":  7
-                                        },
-                                        {
-                                            "id":  "quagga",
-                                            "order":  8
-                                        },
-                                        {
-                                            "id":  "traversia-lyalli",
-                                            "era":  "Historical"
-                                        },
-                                        {
-                                            "id":  "passenger-pigeon",
-                                            "order":  9
-                                        },
-                                        {
-                                            "id":  "carolina-parakeet",
-                                            "order":  10
-                                        },
-                                        {
-                                            "id":  "huia",
-                                            "order":  11
-                                        },
-                                        {
-                                            "id":  "psephotellus-pulcherrimus",
-                                            "era":  "Historical"
-                                        },
-                                        {
-                                            "id":  "neomonachus-tropicalis",
-                                            "era":  "Historical"
-                                        },
-                                        {
-                                            "id":  "moho-braccatus",
-                                            "era":  "Historical"
-                                        },
-                                        {
-                                            "id":  "thylacine",
-                                            "order":  12
-                                        }
-                                    ]
-                 },
-    "mapRegions":  [
-                       {
-                           "id":  "north-america",
-                           "name":  "North America",
-                           "nativeRangeIds":  [
-                                                  "passenger-pigeon",
-                                                  "carolina-parakeet",
-                                                  "labrador-duck"
-                                              ],
-                           "fossilRangeIds":  [
-                                                  "woolly-mammoth",
-                                                  "tyrannosaurus-rex",
-                                                  "stegosaurus",
-                                                  "triceratops",
-                                                  "diplocaulus",
-                                                  "dire-wolf",
-                                                  "giant-beaver",
-                                                  "ankylosaurus",
-                                                  "allosaurus",
-                                                  "diplodocus",
-                                                  "pteranodon",
-                                                  "elasmosaurus",
-                                                  "dunkleosteus",
-                                                  "helicoprion",
-                                                  "xiphactinus",
-                                                  "eurypterus-remipes",
-                                                  "anomalocaris-canadensis",
-                                                  "opabinia-regalis",
-                                                  "eryops",
-                                                  "mammuthus-columbi",
-                                                  "mammut-americanum",
-                                                  "arctodus-simus",
-                                                  "brachiosaurus-altithorax",
-                                                  "apatosaurus-louisae",
-                                                  "deinosuchus-riograndensis",
-                                                  "hallucigenia-sparsa",
-                                                  "wiwaxia-corrugata",
-                                                  "parasaurolophus-walkeri",
-                                                  "deinonychus-antirrhopus",
-                                                  "coelophysis-bauri",
-                                                  "tiktaalik-roseae",
-                                                  "gerobatrachus-hottoni",
-                                                  "marrella-splendens",
-                                                  "pikaia-gracilens",
-                                                  "ottoia-prolifica",
-                                                  "olenoides-serratus",
-                                                  "edmontosaurus-annectens",
-                                                  "cacops-aspidephorus",
-                                                  "triarthrus-eatoni"
-                                              ],
-                           "discoveryIds":  [
-                                                "passenger-pigeon",
-                                                "carolina-parakeet",
-                                                "labrador-duck",
-                                                "woolly-mammoth",
-                                                "tyrannosaurus-rex",
-                                                "stegosaurus",
-                                                "triceratops",
-                                                "diplocaulus",
-                                                "dire-wolf",
-                                                "giant-beaver",
-                                                "ankylosaurus",
-                                                "allosaurus",
-                                                "diplodocus",
-                                                "pteranodon",
-                                                "elasmosaurus",
-                                                "dunkleosteus",
-                                                "helicoprion",
-                                                "xiphactinus",
-                                                "eurypterus-remipes",
-                                                "anomalocaris-canadensis",
-                                                "opabinia-regalis",
-                                                "eryops",
-                                                "mammuthus-columbi",
-                                                "mammut-americanum",
-                                                "arctodus-simus",
-                                                "brachiosaurus-altithorax",
-                                                "apatosaurus-louisae",
-                                                "deinosuchus-riograndensis",
-                                                "hallucigenia-sparsa",
-                                                "wiwaxia-corrugata",
-                                                "parasaurolophus-walkeri",
-                                                "deinonychus-antirrhopus",
-                                                "coelophysis-bauri",
-                                                "tiktaalik-roseae",
-                                                "gerobatrachus-hottoni",
-                                                "marrella-splendens",
-                                                "pikaia-gracilens",
-                                                "ottoia-prolifica",
-                                                "olenoides-serratus",
-                                                "edmontosaurus-annectens",
-                                                "cacops-aspidephorus",
-                                                "triarthrus-eatoni"
-                                            ]
-                       },
-                       {
-                           "id":  "south-america",
-                           "name":  "South America",
-                           "nativeRangeIds":  [
-
-                                              ],
-                           "fossilRangeIds":  [
-                                                  "smilodon",
-                                                  "giant-ground-sloth",
-                                                  "glyptodon-clavipes",
-                                                  "dire-wolf",
-                                                  "eremotherium-laurillardi",
-                                                  "giganotosaurus-carolinii",
-                                                  "argentinosaurus-huinculensis",
-                                                  "prionosuchus-plummeri",
-                                                  "titanoboa-cerrejonensis",
-                                                  "stupendemys-geographicus"
-                                              ],
-                           "discoveryIds":  [
-                                                "smilodon",
-                                                "giant-ground-sloth",
-                                                "glyptodon-clavipes",
-                                                "dire-wolf",
-                                                "eremotherium-laurillardi",
-                                                "giganotosaurus-carolinii",
-                                                "argentinosaurus-huinculensis",
-                                                "prionosuchus-plummeri",
-                                                "titanoboa-cerrejonensis",
-                                                "stupendemys-geographicus"
-                                            ]
-                       },
-                       {
-                           "id":  "europe",
-                           "name":  "Europe",
-                           "nativeRangeIds":  [
-                                                  "bos-primigenius"
-                                              ],
-                           "fossilRangeIds":  [
-                                                  "plesiosaurus",
-                                                  "irish-elk",
-                                                  "cave-bear",
-                                                  "cave-lion",
-                                                  "woolly-rhinoceros",
-                                                  "archaeopteryx",
-                                                  "mosasaurus",
-                                                  "ichthyosaurus",
-                                                  "dactylioceras-commune",
-                                                  "calymene-trilobite"
-                                              ],
-                           "discoveryIds":  [
-                                                "plesiosaurus",
-                                                "irish-elk",
-                                                "cave-bear",
-                                                "cave-lion",
-                                                "woolly-rhinoceros",
-                                                "archaeopteryx",
-                                                "mosasaurus",
-                                                "ichthyosaurus",
-                                                "dactylioceras-commune",
-                                                "calymene-trilobite",
-                                                "bos-primigenius"
-                                            ]
-                       },
-                       {
-                           "id":  "africa",
-                           "name":  "Africa",
-                           "nativeRangeIds":  [
-                                                  "quagga",
-                                                  "elephant-bird",
-                                                  "hippotragus-leucophaeus"
-                                              ],
-                           "fossilRangeIds":  [
-                                                  "beelzebufo",
-                                                  "spinosaurus",
-                                                  "sarcosuchus-imperator"
-                                              ],
-                           "discoveryIds":  [
-                                                "quagga",
-                                                "elephant-bird",
-                                                "beelzebufo",
-                                                "spinosaurus",
-                                                "sarcosuchus-imperator",
-                                                "hippotragus-leucophaeus"
-                                            ]
-                       },
-                       {
-                           "id":  "asia",
-                           "name":  "Asia",
-                           "nativeRangeIds":  [
-
-                                              ],
-                           "fossilRangeIds":  [
-                                                  "woolly-mammoth",
-                                                  "irish-elk",
-                                                  "cave-bear",
-                                                  "cave-lion",
-                                                  "woolly-rhinoceros",
-                                                  "velociraptor",
-                                                  "helicoprion",
-                                                  "oviraptor-philoceratops",
-                                                  "homo-luzonensis"
-                                              ],
-                           "discoveryIds":  [
-                                                "woolly-mammoth",
-                                                "irish-elk",
-                                                "cave-bear",
-                                                "cave-lion",
-                                                "woolly-rhinoceros",
-                                                "velociraptor",
-                                                "helicoprion",
-                                                "oviraptor-philoceratops",
-                                                "homo-luzonensis"
-                                            ]
-                       },
-                       {
-                           "id":  "oceania",
-                           "name":  "Oceania",
-                           "nativeRangeIds":  [
-                                                  "thylacine",
-                                                  "south-island-moa",
-                                                  "haasts-eagle",
-                                                  "huia",
-                                                  "emeus-crassus",
-                                                  "psephotellus-pulcherrimus",
-                                                  "megalapteryx-didinus"
-                                              ],
-                           "fossilRangeIds":  [
-                                                  "diprotodon-optatum",
-                                                  "thylacoleo-carnifex",
-                                                  "varanus-priscus",
-                                                  "koolasuchus-cleelandi"
-                                              ],
-                           "discoveryIds":  [
-                                                "thylacine",
-                                                "south-island-moa",
-                                                "haasts-eagle",
-                                                "huia",
-                                                "diprotodon-optatum",
-                                                "thylacoleo-carnifex",
-                                                "emeus-crassus",
-                                                "varanus-priscus",
-                                                "koolasuchus-cleelandi",
-                                                "psephotellus-pulcherrimus",
-                                                "megalapteryx-didinus"
-                                            ]
-                       },
-                       {
-                           "id":  "islands",
-                           "name":  "Islands \u0026 archipelagos",
-                           "nativeRangeIds":  [
-                                                  "dodo",
-                                                  "great-auk",
-                                                  "stellers-sea-cow",
-                                                  "south-island-moa",
-                                                  "elephant-bird",
-                                                  "haasts-eagle",
-                                                  "huia",
-                                                  "pezophaps-solitaria",
-                                                  "aphanapteryx-bonasia",
-                                                  "dusicyon-australis",
-                                                  "traversia-lyalli",
-                                                  "moho-braccatus"
-                                              ],
-                           "fossilRangeIds":  [
-                                                  "woolly-mammoth",
-                                                  "beelzebufo"
-                                              ],
-                           "discoveryIds":  [
-                                                "dodo",
-                                                "great-auk",
-                                                "stellers-sea-cow",
-                                                "south-island-moa",
-                                                "elephant-bird",
-                                                "haasts-eagle",
-                                                "huia",
-                                                "woolly-mammoth",
-                                                "beelzebufo",
-                                                "pezophaps-solitaria",
-                                                "aphanapteryx-bonasia",
-                                                "dusicyon-australis",
-                                                "traversia-lyalli",
-                                                "moho-braccatus"
-                                            ]
-                       },
-                       {
-                           "id":  "oceans",
-                           "name":  "Oceans \u0026 seas",
-                           "nativeRangeIds":  [
-                                                  "great-auk",
-                                                  "stellers-sea-cow",
-                                                  "neomonachus-tropicalis"
-                                              ],
-                           "fossilRangeIds":  [
-                                                  "megalodon",
-                                                  "plesiosaurus",
-                                                  "calymene-trilobite",
-                                                  "mosasaurus",
-                                                  "ichthyosaurus",
-                                                  "elasmosaurus",
-                                                  "dunkleosteus",
-                                                  "helicoprion",
-                                                  "xiphactinus",
-                                                  "dactylioceras-commune",
-                                                  "eurypterus-remipes",
-                                                  "anomalocaris-canadensis",
-                                                  "opabinia-regalis",
-                                                  "cretoxyrhina-mantelli",
-                                                  "squalicorax-pristodontus",
-                                                  "archelon-ischyros",
-                                                  "enchodus-petrosus",
-                                                  "tylosaurus-proriger",
-                                                  "acanthoceras-jukesbrownei",
-                                                  "baculites-compressus",
-                                                  "scaphites-hippocrepis"
-                                              ],
-                           "discoveryIds":  [
-                                                "great-auk",
-                                                "megalodon",
-                                                "plesiosaurus",
-                                                "calymene-trilobite",
-                                                "stellers-sea-cow",
-                                                "mosasaurus",
-                                                "ichthyosaurus",
-                                                "elasmosaurus",
-                                                "dunkleosteus",
-                                                "helicoprion",
-                                                "xiphactinus",
-                                                "dactylioceras-commune",
-                                                "eurypterus-remipes",
-                                                "anomalocaris-canadensis",
-                                                "opabinia-regalis",
-                                                "cretoxyrhina-mantelli",
-                                                "squalicorax-pristodontus",
-                                                "neomonachus-tropicalis",
-                                                "archelon-ischyros",
-                                                "enchodus-petrosus",
-                                                "tylosaurus-proriger",
-                                                "acanthoceras-jukesbrownei",
-                                                "baculites-compressus",
-                                                "scaphites-hippocrepis"
-                                            ]
-                       }
-                   ],
-    "quizQuestions":  [
-                          {
-                              "id":  "mammoth-relative",
-                              "animalId":  "woolly-mammoth",
-                              "question":  "Which living animal is identified in the collection as the woolly mammoth\u0027s closest living relative?",
-                              "choices":  [
-                                              "African elephant",
-                                              "Asian elephant",
-                                              "Indian rhinoceros",
-                                              "American bison"
-                                          ],
-                              "answer":  "Asian elephant",
-                              "explanation":  "The profile names the Asian elephant (Elephas maximus) as the woolly mammoth\u0027s closest living relative."
-                          },
-                          {
-                              "id":  "dodo-home",
-                              "animalId":  "dodo",
-                              "question":  "On which island was the dodo endemic?",
-                              "choices":  [
-                                              "Madagascar",
-                                              "Mauritius",
-                                              "RÃ©union",
-                                              "Seychelles"
-                                          ],
-                              "answer":  "Mauritius",
-                              "explanation":  "The dodo\u0027s geographic range was endemic to Mauritius in the Indian Ocean."
-                          },
-                          {
-                              "id":  "pigeon-record",
-                              "animalId":  "passenger-pigeon",
-                              "question":  "What is recorded about Martha, the last known passenger pigeon?",
-                              "choices":  [
-                                              "She died in 1883",
-                                              "She died on 1 September 1914",
-                                              "She was last seen in 1936",
-                                              "Her final date is not known"
-                                          ],
-                              "answer":  "She died on 1 September 1914",
-                              "explanation":  "The collection records that Martha died at the Cincinnati Zoo on 1 September 1914."
-                          },
-                          {
-                              "id":  "thylacine-record",
-                              "animalId":  "thylacine",
-                              "question":  "When did the last known captive thylacine die?",
-                              "choices":  [
-                                              "1768",
-                                              "1844",
-                                              "1914",
-                                              "1936"
-                                          ],
-                              "answer":  "1936",
-                              "explanation":  "The last known captive thylacine died at Hobart\u0027s Beaumaris Zoo in 1936; the exact date of disappearance in the wild is unknown."
-                          },
-                          {
-                              "id":  "diplocaulus-rank",
-                              "animalId":  "diplocaulus",
-                              "question":  "How specifically is the Diplocaulus entry identified?",
-                              "choices":  [
-                                              "To a named species",
-                                              "To genus only",
-                                              "To family only",
-                                              "To order only"
-                                          ],
-                              "answer":  "To genus only",
-                              "explanation":  "This record is explicitly identified as Diplocaulus sp., a genus-level entry rather than a named species."
-                          },
-                          {
-                              "id":  "megalodon-skeleton",
-                              "animalId":  "megalodon",
-                              "question":  "Why is no complete Megalodon skeleton known?",
-                              "choices":  [
-                                              "Its fossils are all too young",
-                                              "Shark skeletons are mostly cartilage",
-                                              "It lived only in freshwater",
-                                              "Its teeth were never fossilized"
-                                          ],
-                              "answer":  "Shark skeletons are mostly cartilage",
-                              "explanation":  "The profile explains that Megalodon\u0027s skeleton was mostly cartilage, while teeth and some vertebrae are abundant in the fossil record."
-                          },
-                          {
-                              "id":  "quagga-record",
-                              "animalId":  "quagga",
-                              "question":  "What happened to the last known captive quagga?",
-                              "choices":  [
-                                              "It died in Amsterdam Zoo in 1883",
-                                              "It died in Hobart Zoo in 1936",
-                                              "It was last seen on Mauritius",
-                                              "Its final record is unknown"
-                                          ],
-                              "answer":  "It died in Amsterdam Zoo in 1883",
-                              "explanation":  "The collection records that the last known captive quagga died at Amsterdam Zoo in 1883; its disappearance in the wild came earlier."
-                          },
-                          {
-                              "id":  "plesiosaurus-place",
-                              "animalId":  "plesiosaurus",
-                              "question":  "Where are important Early Jurassic Plesiosaurus fossils associated with?",
-                              "choices":  [
-                                              "Dorset, England",
-                                              "The Commander Islands",
-                                              "Rancho La Brea",
-                                              "The Cape region"
-                                          ],
-                              "answer":  "Dorset, England",
-                              "explanation":  "The profile describes important Early Jurassic material from Lyme Regis and nearby Dorset, England."
-                          },
-                          {
-                              "id":  "ankylosaurus-tail",
-                              "animalId":  "ankylosaurus",
-                              "question":  "Which feature is especially distinctive in the Ankylosaurus record?",
-                              "choices":  [
-                                              "A tail club",
-                                              "A long neck with a tiny head",
-                                              "A pair of enormous tusks",
-                                              "A spiral tooth whorl"
-                                          ],
-                              "answer":  "A tail club",
-                              "explanation":  "Ankylosaurus had heavy armor and a bony tail club. Its exact behavior is inferred from anatomy."
-                          },
-                          {
-                              "id":  "pteranodon-group",
-                              "animalId":  "pteranodon",
-                              "question":  "Which group did Pteranodon belong to?",
-                              "choices":  [
-                                              "Pterosaurs",
-                                              "Non-avian theropod dinosaurs",
-                                              "Marine mammals",
-                                              "Flying birds"
-                                          ],
-                              "answer":  "Pterosaurs",
-                              "explanation":  "Pteranodon was a flying reptile, not a dinosaur. Pterosaurs were a separate group."
-                          },
-                          {
-                              "id":  "anomalocaris-fossils",
-                              "animalId":  "anomalocaris-canadensis",
-                              "question":  "Where are especially well-known Anomalocaris fossils found?",
-                              "choices":  [
-                                              "Burgess Shale, Canada",
-                                              "Rancho La Brea, California",
-                                              "Solnhofen, Germany",
-                                              "Dudley, Wales"
-                                          ],
-                              "answer":  "Burgess Shale, Canada",
-                              "explanation":  "The Royal Ontario Museum records Anomalocaris canadensis from the Burgess Shale of British Columbia."
-                          },
-                          {
-                              "id":  "opabinia-eyes",
-                              "animalId":  "opabinia-regalis",
-                              "question":  "How many eyes are described on Opabinia in this collection?",
-                              "choices":  [
-                                              "Three",
-                                              "Four",
-                                              "Five",
-                                              "Eight"
-                                          ],
-                              "answer":  "Five",
-                              "explanation":  "Fossil impressions show Opabinia with five eyes and a flexible frontal proboscis."
-                          },
-                          {
-                              "id":  "huia-bills",
-                              "animalId":  "huia",
-                              "question":  "What was unusual about male and female huia?",
-                              "choices":  [
-                                              "Their bill shapes differed markedly",
-                                              "Only females had wings",
-                                              "Males were marine divers",
-                                              "Females had antlers"
-                                          ],
-                              "answer":  "Their bill shapes differed markedly",
-                              "explanation":  "Museum specimens show pronounced bill-shape differences between male and female huia."
-                          },
-                          {
-                              "id":  "moa-wings",
-                              "animalId":  "south-island-moa",
-                              "question":  "What does the moa record say about its wings?",
-                              "choices":  [
-                                              "It had no wings",
-                                              "It had broad flying wings",
-                                              "Only males could fly",
-                                              "Its wings were larger than its legs"
-                                          ],
-                              "answer":  "It had no wings",
-                              "explanation":  "Moa had no wings, including the reduced wing bones seen in some flightless birds."
-                          },
-                          {
-                              "id":  "dire-wolf-lineage",
-                              "animalId":  "dire-wolf",
-                              "question":  "What did ancient-DNA research indicate about the dire wolf?",
-                              "choices":  [
-                                              "It was a distinct lineage, not simply a gray-wolf subspecies",
-                                              "It was a modern dog breed",
-                                              "It was a saber-toothed cat",
-                                              "It was a bear"
-                                          ],
-                              "answer":  "It was a distinct lineage, not simply a gray-wolf subspecies",
-                              "explanation":  "Ancient-DNA research supports placing the dire wolf in the distinct genus Aenocyon; older sources use Canis dirus."
-                          },
-                          {
-                              "id":  "beelzebufo-range",
-                              "animalId":  "beelzebufo",
-                              "question":  "Where are Beelzebufo fossils known from?",
-                              "choices":  [
-                                              "Madagascar",
-                                              "New Zealand",
-                                              "Greenland",
-                                              "South America"
-                                          ],
-                              "answer":  "Madagascar",
-                              "explanation":  "Beelzebufo ampinga is known from Late Cretaceous fossils in Madagascar; its size estimates remain debated."
-                          },
-                          {
-                              "id":  "dactylioceras-class",
-                              "animalId":  "dactylioceras-commune",
-                              "question":  "What kind of fossil is Dactylioceras commune?",
-                              "choices":  [
-                                              "An ammonite",
-                                              "A mammal tooth",
-                                              "A dinosaur footprint",
-                                              "A bird egg"
-                                          ],
-                              "answer":  "An ammonite",
-                              "explanation":  "Dactylioceras is a coiled, chambered ammonite shell, a marine cephalopod fossil."
-                          },
-                          {
-                              "id":  "diprotodon-range",
-                              "animalId":  "diprotodon-optatum",
-                              "question":  "On which continent are Diprotodon fossils known?",
-                              "choices":  [
-                                              "Australia",
-                                              "Europe",
-                                              "North America",
-                                              "Africa"
-                                          ],
-                              "answer":  "Australia",
-                              "explanation":  "Diprotodon optatum was a large Pleistocene marsupial known from mainland Australia."
-                          },
-                          {
-                              "id":  "columbian-mammoth-range",
-                              "animalId":  "mammuthus-columbi",
-                              "question":  "Which continent is documented in the Columbian mammoth\u0027s fossil range?",
-                              "choices":  [
-                                              "North America",
-                                              "Australia",
-                                              "Antarctica",
-                                              "Europe only"
-                                          ],
-                              "answer":  "North America",
-                              "explanation":  "Mammuthus columbi fossils are known across North America; the collection describes a broad range rather than a precise boundary."
-                          },
-                          {
-                              "id":  "hallucigenia-period",
-                              "animalId":  "hallucigenia-sparsa",
-                              "question":  "Which geological period contains the known Hallucigenia sparsa fossils?",
-                              "choices":  [
-                                              "Cambrian",
-                                              "Jurassic",
-                                              "Pleistocene",
-                                              "Devonian"
-                                          ],
-                              "answer":  "Cambrian",
-                              "explanation":  "Hallucigenia sparsa is known from Middle Cambrian deposits, including the Burgess Shale."
-                          },
-                          {
-                              "id":  "tiktaalik-fossil-locality",
-                              "animalId":  "tiktaalik-roseae",
-                              "question":  "Where were the known Tiktaalik roseae fossils found?",
-                              "choices":  [
-                                              "Ellesmere Island, Canada",
-                                              "Madagascar",
-                                              "Patagonia",
-                                              "Rodrigues Island"
-                                          ],
-                              "answer":  "Ellesmere Island, Canada",
-                              "explanation":  "The known Tiktaalik fossils come from Late Devonian rocks on Ellesmere Island in the Canadian Arctic."
-                          },
-                          {
-                              "id":  "paradise-parrot-nesting",
-                              "animalId":  "psephotellus-pulcherrimus",
-                              "question":  "What unusual nesting site is associated with the Paradise parrot?",
-                              "choices":  [
-                                              "Termite mounds",
-                                              "Sea cliffs",
-                                              "Hollow coral",
-                                              "Underground burrows"
-                                          ],
-                              "answer":  "Termite mounds",
-                              "explanation":  "Historical accounts describe Paradise parrots nesting in termite mounds in eastern Australia."
-                          },
-                          {
-                              "id":  "homo-luzonensis-location",
-                              "animalId":  "homo-luzonensis",
-                              "question":  "On which island were the known Homo luzonensis fossils discovered?",
-                              "choices":  [
-                                              "Luzon",
-                                              "Borneo",
-                                              "Madagascar",
-                                              "Tasmania"
-                                          ],
-                              "answer":  "Luzon",
-                              "explanation":  "The species is named for Luzon in the Philippines; the fossils were found at Callao Cave."
-                          },
-                          {
-                              "id":  "aurochs-last-individual",
-                              "animalId":  "bos-primigenius",
-                              "question":  "Which country contains the recorded site of the last known aurochs?",
-                              "choices":  [
-                                              "Poland",
-                                              "Australia",
-                                              "Canada",
-                                              "Japan"
-                                          ],
-                              "answer":  "Poland",
-                              "explanation":  "The last known aurochs died in 1627 in the Jaktorów Forest in Poland."
-                          }
-                      ]
+  "schemaVersion": 1,
+  "timeline": {
+    "deepTime": [
+      {
+        "id": "pikaia-gracilens",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "marrella-splendens",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "wiwaxia-corrugata",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "opabinia-regalis",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "olenoides-serratus",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "hallucigenia-sparsa",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "anomalocaris-canadensis",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "ottoia-prolifica",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "triarthrus-eatoni",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "calymene-trilobite",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "eurypterus-remipes",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "tiktaalik-roseae",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "dunkleosteus",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "gerobatrachus-hottoni",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "cacops-aspidephorus",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "eryops",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "helicoprion",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "prionosuchus-plummeri",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "diplocaulus",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "coelophysis-bauri",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "ichthyosaurus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "plesiosaurus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "dactylioceras-commune",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "diplodocus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "stegosaurus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "brachiosaurus-altithorax",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "apatosaurus-louisae",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "allosaurus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "archaeopteryx",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "koolasuchus-cleelandi",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "sarcosuchus-imperator",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "deinonychus-antirrhopus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "acanthoceras-jukesbrownei",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "giganotosaurus-carolinii",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "spinosaurus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "argentinosaurus-huinculensis",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "enchodus-petrosus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "scaphites-hippocrepis",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "cretoxyrhina-mantelli",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "pteranodon",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "xiphactinus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "tylosaurus-proriger",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "elasmosaurus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "archelon-ischyros",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "baculites-compressus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "deinosuchus-riograndensis",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "parasaurolophus-walkeri",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "oviraptor-philoceratops",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "squalicorax-pristodontus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "velociraptor",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "mosasaurus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "beelzebufo",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "ankylosaurus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "tyrannosaurus-rex",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "triceratops",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "edmontosaurus-annectens",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "titanoboa-cerrejonensis",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "stupendemys-geographicus",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "megalodon",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "homo-luzonensis",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "varanus-priscus",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "diprotodon-optatum",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "thylacoleo-carnifex",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "cave-bear",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "arctodus-simus",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "woolly-rhinoceros",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "cave-lion",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "mammuthus-columbi",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "eremotherium-laurillardi",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "smilodon",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "mammut-americanum",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "dire-wolf",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "giant-beaver",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "glyptodon-clavipes",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "giant-ground-sloth",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "irish-elk",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "woolly-mammoth",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "paraceratherium",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "carnotaurus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "iguanodon",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "dilophosaurus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "therizinosaurus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "pachycephalosaurus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "protoceratops",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "corythosaurus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "baryonyx",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "plateosaurus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "gorgonops",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "dimetrodon",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "lystrosaurus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "edmontonia",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "ornithomimus",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "minmi",
+        "era": "Mesozoic"
+      },
+      {
+        "id": "pterygotus",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "orthoceras",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "cameroceras",
+        "era": "Paleozoic"
+      },
+      {
+        "id": "eotyrannus",
+        "era": "Mesozoic"
+      }
+    ],
+    "historical": [
+      {
+        "id": "elephant-bird",
+        "order": 1
+      },
+      {
+        "id": "south-island-moa",
+        "order": 2
+      },
+      {
+        "id": "megalapteryx-didinus",
+        "era": "Historical"
+      },
+      {
+        "id": "emeus-crassus",
+        "era": "Historical"
+      },
+      {
+        "id": "haasts-eagle",
+        "order": 3
+      },
+      {
+        "id": "bos-primigenius",
+        "era": "Historical"
+      },
+      {
+        "id": "dodo",
+        "order": 4
+      },
+      {
+        "id": "pezophaps-solitaria",
+        "era": "Historical"
+      },
+      {
+        "id": "aphanapteryx-bonasia",
+        "era": "Historical"
+      },
+      {
+        "id": "stellers-sea-cow",
+        "order": 5
+      },
+      {
+        "id": "hippotragus-leucophaeus",
+        "era": "Historical"
+      },
+      {
+        "id": "great-auk",
+        "order": 6
+      },
+      {
+        "id": "dusicyon-australis",
+        "era": "Historical"
+      },
+      {
+        "id": "labrador-duck",
+        "order": 7
+      },
+      {
+        "id": "quagga",
+        "order": 8
+      },
+      {
+        "id": "traversia-lyalli",
+        "era": "Historical"
+      },
+      {
+        "id": "passenger-pigeon",
+        "order": 9
+      },
+      {
+        "id": "carolina-parakeet",
+        "order": 10
+      },
+      {
+        "id": "huia",
+        "order": 11
+      },
+      {
+        "id": "psephotellus-pulcherrimus",
+        "era": "Historical"
+      },
+      {
+        "id": "neomonachus-tropicalis",
+        "era": "Historical"
+      },
+      {
+        "id": "moho-braccatus",
+        "era": "Historical"
+      },
+      {
+        "id": "thylacine",
+        "order": 12
+      }
+    ]
+  },
+  "mapRegions": [
+    {
+      "id": "north-america",
+      "name": "North America",
+      "nativeRangeIds": [
+        "passenger-pigeon",
+        "carolina-parakeet",
+        "labrador-duck"
+      ],
+      "fossilRangeIds": [
+        "woolly-mammoth",
+        "tyrannosaurus-rex",
+        "stegosaurus",
+        "triceratops",
+        "diplocaulus",
+        "dire-wolf",
+        "giant-beaver",
+        "ankylosaurus",
+        "allosaurus",
+        "diplodocus",
+        "pteranodon",
+        "elasmosaurus",
+        "dunkleosteus",
+        "helicoprion",
+        "xiphactinus",
+        "eurypterus-remipes",
+        "anomalocaris-canadensis",
+        "opabinia-regalis",
+        "eryops",
+        "mammuthus-columbi",
+        "mammut-americanum",
+        "arctodus-simus",
+        "brachiosaurus-altithorax",
+        "apatosaurus-louisae",
+        "deinosuchus-riograndensis",
+        "hallucigenia-sparsa",
+        "wiwaxia-corrugata",
+        "parasaurolophus-walkeri",
+        "deinonychus-antirrhopus",
+        "coelophysis-bauri",
+        "tiktaalik-roseae",
+        "gerobatrachus-hottoni",
+        "marrella-splendens",
+        "pikaia-gracilens",
+        "ottoia-prolifica",
+        "olenoides-serratus",
+        "edmontosaurus-annectens",
+        "cacops-aspidephorus",
+        "triarthrus-eatoni"
+      ],
+      "discoveryIds": [
+        "passenger-pigeon",
+        "carolina-parakeet",
+        "labrador-duck",
+        "woolly-mammoth",
+        "tyrannosaurus-rex",
+        "stegosaurus",
+        "triceratops",
+        "diplocaulus",
+        "dire-wolf",
+        "giant-beaver",
+        "ankylosaurus",
+        "allosaurus",
+        "diplodocus",
+        "pteranodon",
+        "elasmosaurus",
+        "dunkleosteus",
+        "helicoprion",
+        "xiphactinus",
+        "eurypterus-remipes",
+        "anomalocaris-canadensis",
+        "opabinia-regalis",
+        "eryops",
+        "mammuthus-columbi",
+        "mammut-americanum",
+        "arctodus-simus",
+        "brachiosaurus-altithorax",
+        "apatosaurus-louisae",
+        "deinosuchus-riograndensis",
+        "hallucigenia-sparsa",
+        "wiwaxia-corrugata",
+        "parasaurolophus-walkeri",
+        "deinonychus-antirrhopus",
+        "coelophysis-bauri",
+        "tiktaalik-roseae",
+        "gerobatrachus-hottoni",
+        "marrella-splendens",
+        "pikaia-gracilens",
+        "ottoia-prolifica",
+        "olenoides-serratus",
+        "edmontosaurus-annectens",
+        "cacops-aspidephorus",
+        "triarthrus-eatoni"
+      ]
+    },
+    {
+      "id": "south-america",
+      "name": "South America",
+      "nativeRangeIds": [],
+      "fossilRangeIds": [
+        "smilodon",
+        "giant-ground-sloth",
+        "glyptodon-clavipes",
+        "dire-wolf",
+        "eremotherium-laurillardi",
+        "giganotosaurus-carolinii",
+        "argentinosaurus-huinculensis",
+        "prionosuchus-plummeri",
+        "titanoboa-cerrejonensis",
+        "stupendemys-geographicus"
+      ],
+      "discoveryIds": [
+        "smilodon",
+        "giant-ground-sloth",
+        "glyptodon-clavipes",
+        "dire-wolf",
+        "eremotherium-laurillardi",
+        "giganotosaurus-carolinii",
+        "argentinosaurus-huinculensis",
+        "prionosuchus-plummeri",
+        "titanoboa-cerrejonensis",
+        "stupendemys-geographicus"
+      ]
+    },
+    {
+      "id": "europe",
+      "name": "Europe",
+      "nativeRangeIds": [
+        "bos-primigenius"
+      ],
+      "fossilRangeIds": [
+        "plesiosaurus",
+        "irish-elk",
+        "cave-bear",
+        "cave-lion",
+        "woolly-rhinoceros",
+        "archaeopteryx",
+        "mosasaurus",
+        "ichthyosaurus",
+        "dactylioceras-commune",
+        "calymene-trilobite"
+      ],
+      "discoveryIds": [
+        "plesiosaurus",
+        "irish-elk",
+        "cave-bear",
+        "cave-lion",
+        "woolly-rhinoceros",
+        "archaeopteryx",
+        "mosasaurus",
+        "ichthyosaurus",
+        "dactylioceras-commune",
+        "calymene-trilobite",
+        "bos-primigenius"
+      ]
+    },
+    {
+      "id": "africa",
+      "name": "Africa",
+      "nativeRangeIds": [
+        "quagga",
+        "elephant-bird",
+        "hippotragus-leucophaeus"
+      ],
+      "fossilRangeIds": [
+        "beelzebufo",
+        "spinosaurus",
+        "sarcosuchus-imperator"
+      ],
+      "discoveryIds": [
+        "quagga",
+        "elephant-bird",
+        "beelzebufo",
+        "spinosaurus",
+        "sarcosuchus-imperator",
+        "hippotragus-leucophaeus"
+      ]
+    },
+    {
+      "id": "asia",
+      "name": "Asia",
+      "nativeRangeIds": [],
+      "fossilRangeIds": [
+        "woolly-mammoth",
+        "irish-elk",
+        "cave-bear",
+        "cave-lion",
+        "woolly-rhinoceros",
+        "velociraptor",
+        "helicoprion",
+        "oviraptor-philoceratops",
+        "homo-luzonensis"
+      ],
+      "discoveryIds": [
+        "woolly-mammoth",
+        "irish-elk",
+        "cave-bear",
+        "cave-lion",
+        "woolly-rhinoceros",
+        "velociraptor",
+        "helicoprion",
+        "oviraptor-philoceratops",
+        "homo-luzonensis"
+      ]
+    },
+    {
+      "id": "oceania",
+      "name": "Oceania",
+      "nativeRangeIds": [
+        "thylacine",
+        "south-island-moa",
+        "haasts-eagle",
+        "huia",
+        "emeus-crassus",
+        "psephotellus-pulcherrimus",
+        "megalapteryx-didinus"
+      ],
+      "fossilRangeIds": [
+        "diprotodon-optatum",
+        "thylacoleo-carnifex",
+        "varanus-priscus",
+        "koolasuchus-cleelandi"
+      ],
+      "discoveryIds": [
+        "thylacine",
+        "south-island-moa",
+        "haasts-eagle",
+        "huia",
+        "diprotodon-optatum",
+        "thylacoleo-carnifex",
+        "emeus-crassus",
+        "varanus-priscus",
+        "koolasuchus-cleelandi",
+        "psephotellus-pulcherrimus",
+        "megalapteryx-didinus"
+      ]
+    },
+    {
+      "id": "islands",
+      "name": "Islands & archipelagos",
+      "nativeRangeIds": [
+        "dodo",
+        "great-auk",
+        "stellers-sea-cow",
+        "south-island-moa",
+        "elephant-bird",
+        "haasts-eagle",
+        "huia",
+        "pezophaps-solitaria",
+        "aphanapteryx-bonasia",
+        "dusicyon-australis",
+        "traversia-lyalli",
+        "moho-braccatus"
+      ],
+      "fossilRangeIds": [
+        "woolly-mammoth",
+        "beelzebufo"
+      ],
+      "discoveryIds": [
+        "dodo",
+        "great-auk",
+        "stellers-sea-cow",
+        "south-island-moa",
+        "elephant-bird",
+        "haasts-eagle",
+        "huia",
+        "woolly-mammoth",
+        "beelzebufo",
+        "pezophaps-solitaria",
+        "aphanapteryx-bonasia",
+        "dusicyon-australis",
+        "traversia-lyalli",
+        "moho-braccatus"
+      ]
+    },
+    {
+      "id": "oceans",
+      "name": "Oceans & seas",
+      "nativeRangeIds": [
+        "great-auk",
+        "stellers-sea-cow",
+        "neomonachus-tropicalis"
+      ],
+      "fossilRangeIds": [
+        "megalodon",
+        "plesiosaurus",
+        "calymene-trilobite",
+        "mosasaurus",
+        "ichthyosaurus",
+        "elasmosaurus",
+        "dunkleosteus",
+        "helicoprion",
+        "xiphactinus",
+        "dactylioceras-commune",
+        "eurypterus-remipes",
+        "anomalocaris-canadensis",
+        "opabinia-regalis",
+        "cretoxyrhina-mantelli",
+        "squalicorax-pristodontus",
+        "archelon-ischyros",
+        "enchodus-petrosus",
+        "tylosaurus-proriger",
+        "acanthoceras-jukesbrownei",
+        "baculites-compressus",
+        "scaphites-hippocrepis"
+      ],
+      "discoveryIds": [
+        "great-auk",
+        "megalodon",
+        "plesiosaurus",
+        "calymene-trilobite",
+        "stellers-sea-cow",
+        "mosasaurus",
+        "ichthyosaurus",
+        "elasmosaurus",
+        "dunkleosteus",
+        "helicoprion",
+        "xiphactinus",
+        "dactylioceras-commune",
+        "eurypterus-remipes",
+        "anomalocaris-canadensis",
+        "opabinia-regalis",
+        "cretoxyrhina-mantelli",
+        "squalicorax-pristodontus",
+        "neomonachus-tropicalis",
+        "archelon-ischyros",
+        "enchodus-petrosus",
+        "tylosaurus-proriger",
+        "acanthoceras-jukesbrownei",
+        "baculites-compressus",
+        "scaphites-hippocrepis"
+      ]
+    }
+  ],
+  "quizQuestions": [
+    {
+      "id": "mammoth-relative",
+      "animalId": "woolly-mammoth",
+      "question": "Which living animal is identified in the collection as the woolly mammoth's closest living relative?",
+      "choices": [
+        "African elephant",
+        "Asian elephant",
+        "Indian rhinoceros",
+        "American bison"
+      ],
+      "answer": "Asian elephant",
+      "explanation": "The profile names the Asian elephant (Elephas maximus) as the woolly mammoth's closest living relative."
+    },
+    {
+      "id": "dodo-home",
+      "animalId": "dodo",
+      "question": "On which island was the dodo endemic?",
+      "choices": [
+        "Madagascar",
+        "Mauritius",
+        "RÃ©union",
+        "Seychelles"
+      ],
+      "answer": "Mauritius",
+      "explanation": "The dodo's geographic range was endemic to Mauritius in the Indian Ocean."
+    },
+    {
+      "id": "pigeon-record",
+      "animalId": "passenger-pigeon",
+      "question": "What is recorded about Martha, the last known passenger pigeon?",
+      "choices": [
+        "She died in 1883",
+        "She died on 1 September 1914",
+        "She was last seen in 1936",
+        "Her final date is not known"
+      ],
+      "answer": "She died on 1 September 1914",
+      "explanation": "The collection records that Martha died at the Cincinnati Zoo on 1 September 1914."
+    },
+    {
+      "id": "thylacine-record",
+      "animalId": "thylacine",
+      "question": "When did the last known captive thylacine die?",
+      "choices": [
+        "1768",
+        "1844",
+        "1914",
+        "1936"
+      ],
+      "answer": "1936",
+      "explanation": "The last known captive thylacine died at Hobart's Beaumaris Zoo in 1936; the exact date of disappearance in the wild is unknown."
+    },
+    {
+      "id": "diplocaulus-rank",
+      "animalId": "diplocaulus",
+      "question": "How specifically is the Diplocaulus entry identified?",
+      "choices": [
+        "To a named species",
+        "To genus only",
+        "To family only",
+        "To order only"
+      ],
+      "answer": "To genus only",
+      "explanation": "This record is explicitly identified as Diplocaulus sp., a genus-level entry rather than a named species."
+    },
+    {
+      "id": "megalodon-skeleton",
+      "animalId": "megalodon",
+      "question": "Why is no complete Megalodon skeleton known?",
+      "choices": [
+        "Its fossils are all too young",
+        "Shark skeletons are mostly cartilage",
+        "It lived only in freshwater",
+        "Its teeth were never fossilized"
+      ],
+      "answer": "Shark skeletons are mostly cartilage",
+      "explanation": "The profile explains that Megalodon's skeleton was mostly cartilage, while teeth and some vertebrae are abundant in the fossil record."
+    },
+    {
+      "id": "quagga-record",
+      "animalId": "quagga",
+      "question": "What happened to the last known captive quagga?",
+      "choices": [
+        "It died in Amsterdam Zoo in 1883",
+        "It died in Hobart Zoo in 1936",
+        "It was last seen on Mauritius",
+        "Its final record is unknown"
+      ],
+      "answer": "It died in Amsterdam Zoo in 1883",
+      "explanation": "The collection records that the last known captive quagga died at Amsterdam Zoo in 1883; its disappearance in the wild came earlier."
+    },
+    {
+      "id": "plesiosaurus-place",
+      "animalId": "plesiosaurus",
+      "question": "Where are important Early Jurassic Plesiosaurus fossils associated with?",
+      "choices": [
+        "Dorset, England",
+        "The Commander Islands",
+        "Rancho La Brea",
+        "The Cape region"
+      ],
+      "answer": "Dorset, England",
+      "explanation": "The profile describes important Early Jurassic material from Lyme Regis and nearby Dorset, England."
+    },
+    {
+      "id": "ankylosaurus-tail",
+      "animalId": "ankylosaurus",
+      "question": "Which feature is especially distinctive in the Ankylosaurus record?",
+      "choices": [
+        "A tail club",
+        "A long neck with a tiny head",
+        "A pair of enormous tusks",
+        "A spiral tooth whorl"
+      ],
+      "answer": "A tail club",
+      "explanation": "Ankylosaurus had heavy armor and a bony tail club. Its exact behavior is inferred from anatomy."
+    },
+    {
+      "id": "pteranodon-group",
+      "animalId": "pteranodon",
+      "question": "Which group did Pteranodon belong to?",
+      "choices": [
+        "Pterosaurs",
+        "Non-avian theropod dinosaurs",
+        "Marine mammals",
+        "Flying birds"
+      ],
+      "answer": "Pterosaurs",
+      "explanation": "Pteranodon was a flying reptile, not a dinosaur. Pterosaurs were a separate group."
+    },
+    {
+      "id": "anomalocaris-fossils",
+      "animalId": "anomalocaris-canadensis",
+      "question": "Where are especially well-known Anomalocaris fossils found?",
+      "choices": [
+        "Burgess Shale, Canada",
+        "Rancho La Brea, California",
+        "Solnhofen, Germany",
+        "Dudley, Wales"
+      ],
+      "answer": "Burgess Shale, Canada",
+      "explanation": "The Royal Ontario Museum records Anomalocaris canadensis from the Burgess Shale of British Columbia."
+    },
+    {
+      "id": "opabinia-eyes",
+      "animalId": "opabinia-regalis",
+      "question": "How many eyes are described on Opabinia in this collection?",
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Eight"
+      ],
+      "answer": "Five",
+      "explanation": "Fossil impressions show Opabinia with five eyes and a flexible frontal proboscis."
+    },
+    {
+      "id": "huia-bills",
+      "animalId": "huia",
+      "question": "What was unusual about male and female huia?",
+      "choices": [
+        "Their bill shapes differed markedly",
+        "Only females had wings",
+        "Males were marine divers",
+        "Females had antlers"
+      ],
+      "answer": "Their bill shapes differed markedly",
+      "explanation": "Museum specimens show pronounced bill-shape differences between male and female huia."
+    },
+    {
+      "id": "moa-wings",
+      "animalId": "south-island-moa",
+      "question": "What does the moa record say about its wings?",
+      "choices": [
+        "It had no wings",
+        "It had broad flying wings",
+        "Only males could fly",
+        "Its wings were larger than its legs"
+      ],
+      "answer": "It had no wings",
+      "explanation": "Moa had no wings, including the reduced wing bones seen in some flightless birds."
+    },
+    {
+      "id": "dire-wolf-lineage",
+      "animalId": "dire-wolf",
+      "question": "What did ancient-DNA research indicate about the dire wolf?",
+      "choices": [
+        "It was a distinct lineage, not simply a gray-wolf subspecies",
+        "It was a modern dog breed",
+        "It was a saber-toothed cat",
+        "It was a bear"
+      ],
+      "answer": "It was a distinct lineage, not simply a gray-wolf subspecies",
+      "explanation": "Ancient-DNA research supports placing the dire wolf in the distinct genus Aenocyon; older sources use Canis dirus."
+    },
+    {
+      "id": "beelzebufo-range",
+      "animalId": "beelzebufo",
+      "question": "Where are Beelzebufo fossils known from?",
+      "choices": [
+        "Madagascar",
+        "New Zealand",
+        "Greenland",
+        "South America"
+      ],
+      "answer": "Madagascar",
+      "explanation": "Beelzebufo ampinga is known from Late Cretaceous fossils in Madagascar; its size estimates remain debated."
+    },
+    {
+      "id": "dactylioceras-class",
+      "animalId": "dactylioceras-commune",
+      "question": "What kind of fossil is Dactylioceras commune?",
+      "choices": [
+        "An ammonite",
+        "A mammal tooth",
+        "A dinosaur footprint",
+        "A bird egg"
+      ],
+      "answer": "An ammonite",
+      "explanation": "Dactylioceras is a coiled, chambered ammonite shell, a marine cephalopod fossil."
+    },
+    {
+      "id": "diprotodon-range",
+      "animalId": "diprotodon-optatum",
+      "question": "On which continent are Diprotodon fossils known?",
+      "choices": [
+        "Australia",
+        "Europe",
+        "North America",
+        "Africa"
+      ],
+      "answer": "Australia",
+      "explanation": "Diprotodon optatum was a large Pleistocene marsupial known from mainland Australia."
+    },
+    {
+      "id": "columbian-mammoth-range",
+      "animalId": "mammuthus-columbi",
+      "question": "Which continent is documented in the Columbian mammoth's fossil range?",
+      "choices": [
+        "North America",
+        "Australia",
+        "Antarctica",
+        "Europe only"
+      ],
+      "answer": "North America",
+      "explanation": "Mammuthus columbi fossils are known across North America; the collection describes a broad range rather than a precise boundary."
+    },
+    {
+      "id": "hallucigenia-period",
+      "animalId": "hallucigenia-sparsa",
+      "question": "Which geological period contains the known Hallucigenia sparsa fossils?",
+      "choices": [
+        "Cambrian",
+        "Jurassic",
+        "Pleistocene",
+        "Devonian"
+      ],
+      "answer": "Cambrian",
+      "explanation": "Hallucigenia sparsa is known from Middle Cambrian deposits, including the Burgess Shale."
+    },
+    {
+      "id": "tiktaalik-fossil-locality",
+      "animalId": "tiktaalik-roseae",
+      "question": "Where were the known Tiktaalik roseae fossils found?",
+      "choices": [
+        "Ellesmere Island, Canada",
+        "Madagascar",
+        "Patagonia",
+        "Rodrigues Island"
+      ],
+      "answer": "Ellesmere Island, Canada",
+      "explanation": "The known Tiktaalik fossils come from Late Devonian rocks on Ellesmere Island in the Canadian Arctic."
+    },
+    {
+      "id": "paradise-parrot-nesting",
+      "animalId": "psephotellus-pulcherrimus",
+      "question": "What unusual nesting site is associated with the Paradise parrot?",
+      "choices": [
+        "Termite mounds",
+        "Sea cliffs",
+        "Hollow coral",
+        "Underground burrows"
+      ],
+      "answer": "Termite mounds",
+      "explanation": "Historical accounts describe Paradise parrots nesting in termite mounds in eastern Australia."
+    },
+    {
+      "id": "homo-luzonensis-location",
+      "animalId": "homo-luzonensis",
+      "question": "On which island were the known Homo luzonensis fossils discovered?",
+      "choices": [
+        "Luzon",
+        "Borneo",
+        "Madagascar",
+        "Tasmania"
+      ],
+      "answer": "Luzon",
+      "explanation": "The species is named for Luzon in the Philippines; the fossils were found at Callao Cave."
+    },
+    {
+      "id": "aurochs-last-individual",
+      "animalId": "bos-primigenius",
+      "question": "Which country contains the recorded site of the last known aurochs?",
+      "choices": [
+        "Poland",
+        "Australia",
+        "Canada",
+        "Japan"
+      ],
+      "answer": "Poland",
+      "explanation": "The last known aurochs died in 1627 in the Jaktorów Forest in Poland."
+    }
+  ]
 }

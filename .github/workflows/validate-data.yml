@@ -1,0 +1,44 @@
+name: Validate LOST WORLD data
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main, "improvements/**"]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check JavaScript syntax
+        run: |
+          for file in scripts/*.js scripts/*.mjs; do
+            node --check "$file"
+          done
+      - name: Validate animal data and assets
+        run: node scripts/validate-data.mjs
+
+  browser-smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install Playwright
+        run: npm install --no-save playwright
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
+      - name: Run browser smoke tests
+        run: node scripts/browser-smoke.mjs

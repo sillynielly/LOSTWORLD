@@ -368,3 +368,23 @@ body::before {
     transition-duration: 0.01ms !important;
   }
 }
+
+
+/* Gentle, accessible entrance motion across the archive. */
+.has-reveal-motion .reveal-pending {
+  opacity: 0;
+  filter: blur(5px);
+  transition: opacity 620ms ease, filter 620ms ease;
+}
+.has-reveal-motion .reveal-pending.is-revealed {
+  opacity: 1;
+  filter: blur(0);
+}
+@media (prefers-reduced-motion: reduce) {
+  .has-reveal-motion .reveal-pending,
+  .has-reveal-motion .reveal-pending.is-revealed {
+    opacity: 1;
+    filter: none;
+    transition: none;
+  }
+}

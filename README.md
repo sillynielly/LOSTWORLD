@@ -7,7 +7,7 @@ LOST WORLD is a growing, selected digital natural history archive about extinct 
 ## Features
 
 - Compact, cinematic homepage with a single primary encyclopedia entry point and random animal discovery.
-- Searchable encyclopedia with combined category filters, keyword suggestions, result counts, and 12 animals per page.
+- Searchable encyclopedia with combined category filters, keyword suggestions, alphabetical and chronological sorting, result counts, and 12 animals per page.
 - Individual animal profiles with classification, habitat, range, diet, physical traits, size where supported, extinction evidence, last records, references, and image credits.
 - Discovery Wing with:
   - Animal comparison
@@ -18,6 +18,7 @@ LOST WORLD is a growing, selected digital natural history archive about extinct 
 - Simplified navigation for Home, Encyclopedia, and About, with the five discovery tools under **More discoveries**.
 - Responsive layouts and keyboard-accessible navigation and controls.
 - A canonical JSON collection shared by the encyclopedia, profiles, and discovery experiences.
+- Automated GitHub Actions checks for JavaScript syntax, animal IDs, image paths and credits, and discovery-data references.
 
 ## Technologies
 
@@ -51,9 +52,9 @@ Serve the folder over HTTP rather than opening pages as `file://`; the website l
 
 ## Collection
 
-The expandable collection currently contains **100 unique animal records** in `data/animals.json`. It spans mammals, birds, reptiles, dinosaurs, marine animals, fish, amphibians, and invertebrates across geological time and recent history. Category tags overlap (for example, dinosaurs are also reptiles): mammals 24, birds 17, reptiles 29, dinosaurs 18, marine animals 31, fish 8, amphibians 7, and invertebrates 15. The encyclopedia combines dinosaurs and reptiles into one browse filter to avoid a crowded control row.
+The expandable collection currently contains **120 unique animal records** in `data/animals.json`. It spans mammals, birds, reptiles, dinosaurs, marine animals, fish, amphibians, and invertebrates across geological time and recent history. Category tags overlap (for example, dinosaurs are also reptiles): mammals 27, birds 17, reptiles 43, dinosaurs 31, marine animals 31, fish 8, amphibians 7, and invertebrates 18. The encyclopedia combines dinosaurs and reptiles into one browse filter to avoid a crowded control row.
 
-Currently, **62 records use sourced, species-appropriate images** and **38 use labeled project-created placeholder plates**. A placeholder is not presented as a photograph or scientific reconstruction. The per-species list and attribution details are in `assets/images/IMAGE-CREDITS.md`; source URLs, licenses, and alt text are also stored in the corresponding records in `data/animals.json`.
+Currently, **119 records use sourced images** and **1 uses a clearly labeled project-created placeholder plate**. Project-created illustrations are not presented as photographs or scientific reconstructions. The per-species list and attribution details are in `assets/images/IMAGE-CREDITS.md`; source URLs, licenses, and alt text are also stored in the corresponding records in `data/animals.json`.
 
 The collection is deliberately expandable: add a uniquely identified, referenced animal record to `data/animals.json` and update related timeline, map, or quiz data in `data/discovery-features.json` as appropriate. Follow the existing record format and keep uncertain or unavailable information explicit.
 

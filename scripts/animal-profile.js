@@ -63,7 +63,7 @@ function renderImage(animal) {
     console.error(`Image failed to load for ${animal.id}: ${animal.image.src}`);
   }, { once: true });
 
-  const marker = element("span", "profile-visual__marker", "FIELD SPECIMEN");
+  const marker = element("span", "profile-visual__marker", "ARCHIVE IMAGE");
   imageWrap.append(image, marker);
 
   const caption = element("figcaption", "profile-visual__caption");
@@ -85,7 +85,10 @@ function renderImage(animal) {
       caption.append(document.createTextNode(" · "), externalLink(animal.image.licenseUrl, animal.image.license));
     }
   } else {
-    caption.append(element("span", "profile-visual__credit", "Project-created placeholder; no species image has been sourced."));
+    caption.append(element("span", "profile-visual__credit", `${animal.image.creator || "Image creator not listed"} · ${animal.image.license || "License not listed"}. No external species image has been sourced for this entry.`));
+  }
+  if (animal.image.recordUrl) {
+    caption.append(document.createTextNode(" "), externalLink(animal.image.recordUrl, animal.image.recordLabel || "Related specimen record ↗"));
   }
 
   figure.append(imageWrap, caption);
