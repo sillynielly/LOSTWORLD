@@ -7031,15 +7031,13 @@
         "It was nicknamed the frogamander because researchers discussed its relationship to frogs and salamanders."
       ],
       "image": {
-        "src": "../assets/images/animals/gerobatrachus-hottoni.svg",
-        "alt": "Species-specific placeholder artwork for Gerobatrachus; not a photograph or scientific reconstruction.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": "",
-        "recordUrl": "https://www.si.edu/object/gerobatrachus-hottoni-anderson-et-al-2008:nmnhpaleobiology_3577932",
-        "recordLabel": "Smithsonian specimen record"
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerobatrachus_hottoni_Anderson_et_al.,_2008.jpg",
+        "alt": "Photograph of the Gerobatrachus hottoni fossil specimen from the Smithsonian National Museum of Natural History.",
+        "type": "fossil specimen photograph",
+        "creator": "Smithsonian National Museum of Natural History specimen; image uploaded by Ghedoghedo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gerobatrachus_hottoni_Anderson_et_al.,_2008.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "references": [
         {
@@ -9833,6 +9831,260 @@
       "relatedIds": [
         "allosaurus",
         "woolly-mammoth"
+      ]
+    },
+    {
+      "id": "stegodon-luzonensis",
+      "commonName": "Philippine Stegodon",
+      "scientificName": "Stegodon luzonensis",
+      "taxonomicRank": "species",
+      "categories": [
+        "mammals"
+      ],
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Proboscidea",
+        "family": "Stegodontidae"
+      },
+      "period": {
+        "label": "Pleistocene",
+        "confidence": "supported by fossil discoveries",
+        "group": "Cenozoic",
+        "sortMa": 0.8
+      },
+      "extinction": {
+        "label": "Pleistocene; the exact time of disappearance is unknown",
+        "confidence": "estimated from fossil evidence",
+        "note": "The youngest known fossils do not identify the last individual.",
+        "causes": [
+          {
+            "claim": "The specific cause of extinction is not established by the available evidence.",
+            "status": "unknown"
+          }
+        ]
+      },
+      "habitat": {
+        "text": "Terrestrial environments on Pleistocene Luzon; the precise habitat preferences are not fully known.",
+        "confidence": "inferred from fossil context"
+      },
+      "geographicRange": {
+        "text": "Luzon, Philippines; fossils are documented from the island.",
+        "confidence": "supported by fossil discoveries"
+      },
+      "livingRelatives": "Living elephants are distant living relatives within Proboscidea; Stegodon belonged to a separate extinct family, Stegodontidae.",
+      "fossilDiscoveries": "Fossils assigned to Stegodon luzonensis include jaw and tooth remains. The National Museum of the Philippines describes the species and its distinctive molars and tusks.",
+      "appearance": "An extinct elephant-like proboscidean with long, nearly straight tusks and distinctive low-crowned grinding teeth.",
+      "diet": "Herbivore; Stegodon species were plant eaters, with grazing indicated for this group.",
+      "size": {
+        "text": "An elephant-like proboscidean; a reliable species-specific body-size estimate is not supplied here.",
+        "estimate": "Avoid applying measurements from other Stegodon species directly."
+      },
+      "lastKnownRecord": {
+        "text": "Known from Pleistocene fossils on Luzon; no exact final occurrence is established here.",
+        "confidence": "estimated from fossil occurrences"
+      },
+      "interestingFacts": [
+        "Its fossils are part of the Philippine National Museum's documented extinct megafauna collection.",
+        "The arrangement of its tusks and specialized molars help distinguish stegodonts from modern elephants."
+      ],
+      "image": {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/20251029_NationalMuseum_Steg odonLuzonensis.jpg",
+        "alt": "Fossil remains of Stegodon luzonensis displayed at the National Museum of Natural History in the Philippines.",
+        "type": "museum fossil specimen photograph",
+        "creator": "Phil2011.13",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:20251029_NationalMuseum_StegodonLuzonensis.jpg",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "references": [
+        {
+          "title": "Extinct Megafauna Fossils – Terrestrial",
+          "organization": "National Museum of the Philippines",
+          "url": "https://www.nationalmuseum.gov.ph/our-collections/geology-and-paleontology/extinct-megafauna-fossils-terrestrial/"
+        },
+        {
+          "title": "Stegodon luzonensis fossil display",
+          "organization": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:20251029_NationalMuseum_StegodonLuzonensis.jpg"
+        }
+      ],
+      "relatedIds": [
+        "homo-luzonensis",
+        "woolly-mammoth",
+        "diprotodon-optatum"
+      ]
+    },
+    {
+      "id": "nesorhinus-philippinensis",
+      "commonName": "Philippine Rhinoceros",
+      "scientificName": "Nesorhinus philippinensis",
+      "taxonomicRank": "species",
+      "categories": [
+        "mammals"
+      ],
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Perissodactyla",
+        "family": "Rhinocerotidae"
+      },
+      "period": {
+        "label": "Middle Pleistocene; fossil evidence includes remains about 709,000 years old",
+        "confidence": "supported by dated archaeological context",
+        "group": "Cenozoic",
+        "sortMa": 0.709
+      },
+      "extinction": {
+        "label": "Pleistocene; exact extinction date unknown",
+        "confidence": "estimated from fossil record",
+        "note": "The known fossil record does not identify a final individual.",
+        "causes": [
+          {
+            "claim": "The precise cause of extinction is not established.",
+            "status": "unknown"
+          }
+        ]
+      },
+      "habitat": {
+        "text": "Terrestrial environments on Pleistocene Luzon; detailed habitat preferences remain uncertain.",
+        "confidence": "inferred from fossil context"
+      },
+      "geographicRange": {
+        "text": "Luzon, Philippines, including fossil discoveries in Kalinga and other parts of the country.",
+        "confidence": "supported by fossil discoveries"
+      },
+      "livingRelatives": "Living rhinoceroses are its closest living relatives within Rhinocerotidae; Nesorhinus is an extinct genus.",
+      "fossilDiscoveries": "A partial skeleton from Luzon was recovered in deposits dated to about 709,000 years ago. Fossil bones from Rizal, Kalinga show cut and percussion marks. The species was historically called Rhinoceros philippinensis and is now placed in Nesorhinus.",
+      "appearance": "A small-bodied extinct rhinoceros known from fossil bones and teeth; life appearance is reconstructed from its skeletal remains.",
+      "diet": "Herbivore; rhinoceroses feed on plant material, though the exact diet of this species is not fully known.",
+      "size": {
+        "text": "Research indicates a comparatively small-bodied island rhinoceros.",
+        "estimate": "Species-specific body mass estimates vary; no single figure is used here."
+      },
+      "lastKnownRecord": {
+        "text": "Fossil evidence from Luzon includes remains dated to approximately 709,000 years ago; this is not necessarily the final appearance of the species.",
+        "confidence": "supported for the dated remains"
+      },
+      "interestingFacts": [
+        "The species is an important part of the Philippine Pleistocene fossil record.",
+        "A fossil skeleton from Kalinga was found with evidence of butchery by early humans."
+      ],
+      "image": {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Remains_of_a_Rhinoceros_philippinensis_found_in_Rizal,_Kalinga_dated_c._709,000_years_ago.jpg",
+        "alt": "Fossilized bones of Nesorhinus philippinensis from Rizal, Kalinga, showing marks associated with early human activity.",
+        "type": "fossil specimen photograph",
+        "creator": "Darwgon0801",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Remains_of_a_Rhinoceros_philippinensis_found_in_Rizal,_Kalinga_dated_c._709,000_years_ago.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "references": [
+        {
+          "title": "A new rhinoceros clade from the Pleistocene of Asia sheds light on mammal dispersals to the Philippines",
+          "organization": "Zoological Journal of the Linnean Society",
+          "url": "https://doi.org/10.1093/zoolinnean/zlab009"
+        },
+        {
+          "title": "Earliest known hominin activity in the Philippines by 709 thousand years ago",
+          "organization": "Nature",
+          "url": "https://www.nature.com/articles/s41586-018-0072-8"
+        },
+        {
+          "title": "Extinct Megafauna Fossils – Terrestrial",
+          "organization": "National Museum of the Philippines",
+          "url": "https://www.nationalmuseum.gov.ph/our-collections/geology-and-paleontology/extinct-megafauna-fossils-terrestrial/"
+        }
+      ],
+      "relatedIds": [
+        "woolly-rhinoceros",
+        "homo-luzonensis",
+        "stegodon-luzonensis"
+      ]
+    },
+    {
+      "id": "megalochelys-sondaari",
+      "commonName": "Luzon Giant Tortoise",
+      "scientificName": "Megalochelys sondaari",
+      "taxonomicRank": "species",
+      "categories": [
+        "reptiles"
+      ],
+      "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Testudines",
+        "family": "Megalochelyidae"
+      },
+      "period": {
+        "label": "Early Pleistocene, approximately 2.58–1.7 million years ago",
+        "confidence": "supported by fossil context",
+        "group": "Cenozoic",
+        "sortMa": 2.1
+      },
+      "extinction": {
+        "label": "Known from Early Pleistocene deposits; exact extinction date unknown",
+        "confidence": "estimated from fossil record",
+        "note": "The fossil record does not identify the last individual.",
+        "causes": [
+          {
+            "claim": "The cause of extinction is not established by the available evidence.",
+            "status": "unknown"
+          }
+        ]
+      },
+      "habitat": {
+        "text": "Terrestrial island environments on Luzon; detailed habitat preferences are uncertain.",
+        "confidence": "inferred from fossil context"
+      },
+      "geographicRange": {
+        "text": "Luzon, Philippines, including fossil localities in Kalinga, Cagayan, and Antipolo.",
+        "confidence": "supported by fossil discoveries"
+      },
+      "livingRelatives": "Living tortoises are relatives within Testudines, but no living species is a descendant of Megalochelys sondaari.",
+      "fossilDiscoveries": "Fossils include pieces of the carapace and other skeletal remains. The National Museum of the Philippines documents specimens from Liwan in Kalinga, Tuao in Cagayan, and Antipolo.",
+      "appearance": "A giant land tortoise known from fossil shell and skeletal remains; the exact full-body appearance is reconstructed from those remains.",
+      "diet": "Likely herbivorous, as in other giant land tortoises; species-specific dietary evidence is limited.",
+      "size": {
+        "text": "A giant tortoise relative; a reliable species-specific shell length is not supplied here.",
+        "estimate": "Do not substitute measurements from other Megalochelys species."
+      },
+      "lastKnownRecord": {
+        "text": "Known from Early Pleistocene fossil deposits; no exact final occurrence is established.",
+        "confidence": "estimated from fossil occurrences"
+      },
+      "interestingFacts": [
+        "Its fossils have been found at several localities on Luzon.",
+        "The species is included in the National Museum of the Philippines' extinct megafauna collection."
+      ],
+      "image": {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/20251029_NationalMuseum_MegalochelysSondaari.jpg",
+        "alt": "Fossils of the Luzon giant tortoise Megalochelys sondaari displayed at the National Museum of Natural History in the Philippines.",
+        "type": "museum fossil specimen photograph",
+        "creator": "Phil2011.13",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:20251029_NationalMuseum_MegalochelysSondaari.jpg",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "references": [
+        {
+          "title": "Extinct Megafauna Fossils – Terrestrial",
+          "organization": "National Museum of the Philippines",
+          "url": "https://www.nationalmuseum.gov.ph/our-collections/geology-and-paleontology/extinct-megafauna-fossils-terrestrial/"
+        },
+        {
+          "title": "Megalochelys sondaari fossil display",
+          "organization": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:20251029_NationalMuseum_MegalochelysSondaari.jpg"
+        }
+      ],
+      "relatedIds": [
+        "archelon-ischyros",
+        "stupendemys-geographicus",
+        "nesorhinus-philippinensis"
       ]
     }
   ]
