@@ -4030,13 +4030,13 @@
         "Despite its amphibian classification, Eryops was a substantial land vertebrate."
       ],
       "image": {
-        "src": "../assets/images/animals/eryops.svg",
-        "alt": "Species-specific placeholder artwork for Eryops; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Eryops_megacephalus_skeleton_at_American_Museum_of_Natural_History.jpg",
+        "alt": "Eryops megacephalus skeleton at the American Museum of Natural History.",
+        "type": "Museum skeleton photograph",
+        "creator": "Vicpeters",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eryops_megacephalus_skeleton_at_American_Museum_of_Natural_History.jpg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
       },
       "references": [
         {
@@ -4110,13 +4110,13 @@
         "The nickname 'devil frog' is informal; comparisons to modern horned frogs remain debated."
       ],
       "image": {
-        "src": "../assets/images/animals/beelzebufo.svg",
-        "alt": "Species-specific placeholder artwork for Beelzebufo; no species image has been sourced yet.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Beelzebufo_skeletal.png",
+        "alt": "Skeletal diagram of Beelzebufo ampinga by Jaime Headden.",
+        "type": "Skeletal diagram",
+        "creator": "Jaime Headden",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beelzebufo_skeletal.png",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
       },
       "references": [
         {
@@ -5240,13 +5240,13 @@
         "Some Deinosuchus fossils preserve bite marks on dinosaur bones, evidence of feeding interactions but not necessarily a specific attack."
       ],
       "image": {
-        "src": "../assets/images/animals/deinosuchus-riograndensis.svg",
-        "alt": "Species-specific placeholder artwork for Deinosuchus riograndensis; not a photograph or scientific reconstruction.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cr%C3%A1neo_de_Deinosuchus_Riograndensis.jpg",
+        "alt": "Deinosuchus riograndensis skull displayed at the Museo de la Evolución de Puebla.",
+        "type": "Museum fossil skull photograph",
+        "creator": "Luis Alvaz",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cráneo_de_Deinosuchus_Riograndensis.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "references": [
         {
@@ -5321,13 +5321,13 @@
         "Cretoxyrhina teeth are often preserved with Cretaceous marine fossils."
       ],
       "image": {
-        "src": "../assets/images/animals/cretoxyrhina-mantelli.svg",
-        "alt": "Species-specific placeholder artwork for Cretoxyrhina; not a photograph or scientific reconstruction.",
-        "type": "Species-specific placeholder artwork (not a species image)",
-        "creator": "LOST WORLD project team",
-        "sourceUrl": "",
-        "license": "Project-created placeholder artwork",
-        "licenseUrl": ""
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cretoxyrhina_mantelli.jpg",
+        "alt": "Cretoxyrhina mantelli fossil tooth from the Cretaceous of Kansas, USA.",
+        "type": "Fossil tooth photograph",
+        "creator": "Mason Hintermeister",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cretoxyrhina_mantelli.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "references": [
         {
