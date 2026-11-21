@@ -156,3 +156,9 @@ The 20 new animal entries added in the expansion batch use the shared locally st
 - **Woolly rhinoceros (Coelodonta antiquitatis) —** Fossil skeleton photographed by Franco Atirador, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Woolly_Rhino_Skeleton.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 - **Dactylioceras (Dactylioceras commune) —** Ammonite fossil from Whitby, United Kingdom, photographed by Fred Cherrygarden, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Dactylioceras_commune.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - **Helicoprion (Helicoprion sp.) —** Fossil tooth whorl displayed at the Utah Field House of Natural History, photographed by James St. John, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Helicoprion_tooth_whorl.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). The specimen is identified to genus, not to species.
+
+
+- **Red rail (Aphanapteryx bonasia) —** Historical illustration of fossil remains from an 1868 publication by Alphonse Milne-Edwards, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Aphanapteryx.jpg), public domain.
+- **Eastern moa (Emeus crassus) —** Preserved specimen from the Auckland Museum collection, photographed by Auckland Museum Collections, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Emeus_crassus_(Eastern_Moa)_(48719141063).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+- **Caribbean monk seal (Monachus tropicalis) —** Historical illustration from George Brown Goode's 1887 fisheries publication, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Monachus_tropicalis.jpg), public domain.
+- **Prionosuchus (Prionosuchus plummeri) —** Life reconstruction by Dmitry Bogdanov, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Prionosuchus_DB.jpg), public domain.
