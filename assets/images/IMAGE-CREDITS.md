@@ -31,8 +31,6 @@ Per-animal source URLs, licenses, and descriptive alt text are also stored in [`
 These project-created SVG plates are explicit placeholders, not animal images. They are labeled with each animal's name and are not represented as photographs or scientific reconstructions.
 
 - Opabinia - project-created, labeled placeholder artwork at assets/images/animals/opabinia-regalis.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
-- Eryops - project-created, labeled placeholder artwork at assets/images/animals/eryops.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
-- Beelzebufo - project-created, labeled placeholder artwork at assets/images/animals/beelzebufo.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
 
 ## Additional sourced images
 
@@ -186,3 +184,9 @@ The 20 new animal entries added in the expansion batch use the shared locally st
 - **Ornithomimus (Ornithomimus edmontonicus) —** Cast skeleton (ROM 851) at the Royal Ontario Museum, photographed by Eduard Solà, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:OrnithomimusROM.JPG), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 - **Edmontonia (Edmontonia longiceps) —** Skeleton photograph by ★Kumiko★, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Edmontonia_skeleton.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
 - **Dimetrodon (Dimetrodon grandis) —** Fossil skeleton at the National Museum of Natural History in Washington, DC, photographed by Postdlf, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Dimetrodon.jpg), [GFDL 1.2](https://www.gnu.org/licenses/old-licenses/fdl-1.2.html).
+
+
+- **Eryops (Eryops megacephalus) —** Skeleton at the American Museum of Natural History, photographed by Vicpeters, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Eryops_megacephalus_skeleton_at_American_Museum_of_Natural_History.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- **Beelzebufo (Beelzebufo ampinga) —** Skeletal diagram by Jaime Headden, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Beelzebufo_skeletal.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- **Deinosuchus (Deinosuchus riograndensis) —** Skull displayed at the Museo de la Evolución de Puebla, photographed by Luis Alvaz, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Cráneo_de_Deinosuchus_Riograndensis.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- **Cretoxyrhina (Cretoxyrhina mantelli) —** Fossil tooth from the Cretaceous of Kansas, photographed by Mason Hintermeister, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Cretoxyrhina_mantelli.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
