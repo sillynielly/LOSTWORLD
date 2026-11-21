@@ -243,6 +243,18 @@
         "era": "Cenozoic"
       },
       {
+        "id": "stegodon-luzonensis",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "nesorhinus-philippinensis",
+        "era": "Cenozoic"
+      },
+      {
+        "id": "megalochelys-sondaari",
+        "era": "Cenozoic"
+      },
+      {
         "id": "varanus-priscus",
         "era": "Cenozoic"
       },
@@ -677,7 +689,10 @@
         "velociraptor",
         "helicoprion",
         "oviraptor-philoceratops",
-        "homo-luzonensis"
+        "homo-luzonensis",
+        "stegodon-luzonensis",
+        "nesorhinus-philippinensis",
+        "megalochelys-sondaari"
       ],
       "discoveryIds": [
         "woolly-mammoth",
@@ -688,7 +703,10 @@
         "velociraptor",
         "helicoprion",
         "oviraptor-philoceratops",
-        "homo-luzonensis"
+        "homo-luzonensis",
+        "stegodon-luzonensis",
+        "nesorhinus-philippinensis",
+        "megalochelys-sondaari"
       ]
     },
     {
