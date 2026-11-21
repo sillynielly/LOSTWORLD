@@ -28,8 +28,9 @@ Per-animal source URLs, licenses, and descriptive alt text are also stored in [`
 
 ## Species-specific placeholders
 
-These project-created SVG plates are explicit placeholders, not animal images. They are labeled with each animal's name and are not represented as photographs or scientific reconstructions.
+These project-created SVG plates are explicit placeholders, not animal images. They are labeled with the animal's name and are not represented as photographs or scientific reconstructions.
 
+- **Gerobatrachus (Gerobatrachus hottoni)** — project-created species-specific placeholder at `assets/images/animals/gerobatrachus-hottoni.svg`. It is not a photograph or scientific reconstruction. The profile links to the [Smithsonian specimen record](https://www.si.edu/object/gerobatrachus-hottoni-anderson-et-al-2008:nmnhpaleobiology_3577932); the available image file carries conflicting reuse notices, so the placeholder remains until an image with clear reuse terms is confirmed.
 
 ## Additional sourced images
 
