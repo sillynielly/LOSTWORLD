@@ -30,10 +30,7 @@ Per-animal source URLs, licenses, and descriptive alt text are also stored in [`
 
 These project-created SVG plates are explicit placeholders, not animal images. They are labeled with each animal's name and are not represented as photographs or scientific reconstructions.
 
-- Diprotodon - project-created, labeled placeholder artwork at assets/images/animals/diprotodon-optatum.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
 - Woolly rhinoceros - project-created, labeled placeholder artwork at assets/images/animals/woolly-rhinoceros.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
-- Giant beaver - project-created, labeled placeholder artwork at assets/images/animals/giant-beaver.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
-- Haast's eagle - project-created, labeled placeholder artwork at assets/images/animals/haasts-eagle.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
 - Carolina parakeet - project-created, labeled placeholder artwork at assets/images/animals/carolina-parakeet.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
 - Huia - project-created, labeled placeholder artwork at assets/images/animals/huia.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
 - Labrador duck - project-created, labeled placeholder artwork at assets/images/animals/labrador-duck.svg. This is not a photograph or scientific reconstruction; no external image has been sourced yet.
@@ -144,3 +141,8 @@ The 20 new animal entries added in the expansion batch use the shared locally st
 - **Cave bear (Ursus spelaeus) —** Fossil skeleton photographed at the Museum of Comparative Anatomy and Palaeontology in Paris, by Seriykotik, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Cave_Bear_(Ursus_Spelaeus).JPG), public domain.
 - **Cave lion (Panthera spelaea) —** Fossil skeleton from Neumark-Nord 1, photographed in Halle, Germany, by DagdaMor, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Höhlenlöwe_Geiseltal.png), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 - **Glyptodon (Glyptodon clavipes) —** Fossil skull at the Natural History Museum in London, by Emőke Dénes, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:E_-_Glyptodon_clavipes_1.jpg), [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/).
+
+
+- **Giant beaver (Castoroides ohioensis) —** Skeleton displayed at the National Museum of Nature and Science in Tokyo, photographed by Momotarou2012, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Skeleton_of_Castoroides_ohioensis.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+- **Haast's eagle (Hieraaetus moorei) —** Skeletal reconstruction based on figured specimens, by Beyondourworld, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Haast%E2%80%99s_Eagle_Skeletal_Reconstruction.png), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- **Diprotodon (Diprotodon optatum) —** Life reconstruction by Mr Langlois10, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Dirpotodon_optatum.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
