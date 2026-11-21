@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#17251e">
+    <meta name="description" content="Compare two extinct animals using the sourced LOST WORLD collection.">
+    <title>Compare Animals — LOST WORLD</title>
+    <link rel="stylesheet" href="../styles/base.css">
+    <link rel="stylesheet" href="../styles/archive.css">
+    <link rel="stylesheet" href="../styles/features.css">
+    <script type="module" src="../scripts/site-nav.js"></script>
+    <script type="module" src="../scripts/features.js"></script>
+  </head>
+  <body class="feature-page" data-feature="compare">
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="museum-header" id="top">
+      <a class="museum-brand" href="../index.html" aria-label="LOST WORLD home">
+        <svg class="museum-brand__mark" viewBox="0 0 44 44" aria-hidden="true"><circle cx="22" cy="22" r="19.5" /><path d="M9 24c6-1 7-10 13-10s7 16 13 16M10 31c5-1 7-7 12-7s7 6 12 6M22 8v5m0 18v5" /><circle cx="22" cy="22" r="2" /></svg>
+        <span>LOST <b>WORLD</b></span>
+      </a>
+      <button class="museum-menu-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation" aria-label="Open navigation">
+        <span></span><span></span>
+      </button>
+      <nav class="museum-nav" id="primary-navigation" aria-label="Main navigation">
+        <a href="../index.html">Home</a>
+        <a href="encyclopedia.html">Encyclopedia</a>
+        <a href="about.html">About</a>
+        <details class="museum-nav__more">
+          <summary>More discoveries</summary>
+          <ul class="museum-nav__menu">
+            <li><a href="experiences.html">All discoveries</a></li>
+            <li><a href="compare.html" aria-current="page">Comparison</a></li>
+            <li><a href="timeline.html">Timeline</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="map.html">Map</a></li>
+            <li><a href="quiz.html">Quiz</a></li>
+          </ul>
+        </details>
+      </nav>
+    </header>
+    <main class="feature-main compare-main" id="main-content">
+      <section class="feature-hero feature-hero--compare" aria-labelledby="compare-title">
+        <p class="eyebrow">Instrument 01 · The comparison chamber</p>
+        <h1 id="compare-title">Two lives,<br><em>one table.</em></h1>
+        <p>Choose any two records in the archive. Measurements remain estimates where the evidence does not support a precise figure.</p>
+        <span class="feature-hero__index" aria-hidden="true">COMPARATIVE FIELD NOTES / 01</span>
+      </section>
+      <section class="compare-workbench" aria-label="Animal comparison tool">
+        <div class="compare-controls">
+          <div class="compare-controls__heading">
+            <p class="eyebrow">Choose specimens</p>
+            <h2>Set the field cards.</h2>
+          </div>
+          <div class="compare-controls__fields">
+            <label>
+              <span>First animal</span>
+              <select id="compare-first" name="first-animal"></select>
+            </label>
+            <button class="compare-swap" id="compare-swap" type="button" aria-label="Swap selected animals">⇄</button>
+            <label>
+              <span>Second animal</span>
+              <select id="compare-second" name="second-animal"></select>
+            </label>
+            <button class="feature-button" id="compare-submit" type="button">Compare records <span aria-hidden="true">→</span></button>
+          </div>
+          <p class="feature-status" id="compare-status" role="status" aria-live="polite"></p>
+        </div>
+        <div class="comparison-output" id="comparison-output" aria-live="polite"></div>
+      </section>
+      <section class="feature-footnote">
+        <span class="feature-footnote__mark" aria-hidden="true">†</span>
+        <p>“Unknown” means the current record does not support a confident answer. It is not a blank to fill with a guess.</p>
+      </section>
+    </main>
+    <footer class="museum-footer">
+      <a class="museum-footer__home" href="../index.html">← Return to LOST WORLD</a>
+      <span>Comparison chamber · 01</span>
+      <a href="experiences.html">All experiences →</a>
+    </footer>
+  </body>
+</html>

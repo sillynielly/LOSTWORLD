@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#17251e">
+    <meta name="description" content="Browse credited fossils, preserved specimens, historical images, and scientific reconstructions from the LOST WORLD collection.">
+    <title>Discovery Gallery — LOST WORLD</title>
+    <link rel="stylesheet" href="../styles/base.css">
+    <link rel="stylesheet" href="../styles/archive.css">
+    <link rel="stylesheet" href="../styles/features.css">
+    <script type="module" src="../scripts/site-nav.js"></script>
+    <script type="module" src="../scripts/features.js"></script>
+  </head>
+  <body class="feature-page" data-feature="gallery">
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="museum-header" id="top">
+      <a class="museum-brand" href="../index.html" aria-label="LOST WORLD home">
+        <svg class="museum-brand__mark" viewBox="0 0 44 44" aria-hidden="true"><circle cx="22" cy="22" r="19.5" /><path d="M9 24c6-1 7-10 13-10s7 16 13 16M10 31c5-1 7-7 12-7s7 6 12 6M22 8v5m0 18v5" /><circle cx="22" cy="22" r="2" /></svg>
+        <span>LOST <b>WORLD</b></span>
+      </a>
+      <button class="museum-menu-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation" aria-label="Open navigation">
+        <span></span><span></span>
+      </button>
+      <nav class="museum-nav" id="primary-navigation" aria-label="Main navigation">
+        <a href="../index.html">Home</a>
+        <a href="encyclopedia.html">Encyclopedia</a>
+        <a href="about.html">About</a>
+        <details class="museum-nav__more">
+          <summary>More discoveries</summary>
+          <ul class="museum-nav__menu">
+            <li><a href="experiences.html">All discoveries</a></li>
+            <li><a href="compare.html">Comparison</a></li>
+            <li><a href="timeline.html">Timeline</a></li>
+            <li><a href="gallery.html" aria-current="page">Gallery</a></li>
+            <li><a href="map.html">Map</a></li>
+            <li><a href="quiz.html">Quiz</a></li>
+          </ul>
+        </details>
+      </nav>
+    </header>
+    <main class="feature-main gallery-main" id="main-content">
+      <section class="gallery-opening" aria-labelledby="gallery-title">
+        <p class="eyebrow">Instrument 03 · The image cabinet</p>
+        <h1 id="gallery-title">A trace<br><em>made visible.</em></h1>
+        <p>Fossils, preserved specimens, historic records, and scientific reconstructions—each image identified for what it is, credited to its source, and linked to its animal profile.</p>
+        <div class="gallery-opening__rule" aria-hidden="true"><span id="gallery-total">0 IMAGE RECORDS</span><i></i><span>ONE COLLECTION</span></div>
+      </section>
+      <section class="gallery-exhibit" aria-labelledby="gallery-exhibit-title">
+        <div class="gallery-exhibit__heading">
+          <div>
+            <p class="eyebrow">Curated visual record</p>
+            <h2 id="gallery-exhibit-title">Evidence in many forms.</h2>
+          </div>
+          <p>Use the filters to follow a kind of evidence. Image source and license accompany every entry.</p>
+        </div>
+        <div class="gallery-filters" id="gallery-filters" role="group" aria-label="Filter images by evidence type"></div>
+        <p class="gallery-count" id="gallery-count" role="status" aria-live="polite"></p>
+        <div class="gallery-grid" id="gallery-grid" aria-live="polite"></div>
+      </section>
+      <section class="gallery-note">
+        <span class="gallery-note__index">IMAGE RECORD / 03</span>
+        <p>Reconstructions are interpretations. Historical images are records of their own time. Captions and credits identify each image’s source and status.</p>
+      </section>
+    </main>
+    <footer class="museum-footer">
+      <a class="museum-footer__home" href="../index.html">← Return to LOST WORLD</a>
+      <span>Image cabinet · 03</span>
+      <a href="experiences.html">All experiences →</a>
+    </footer>
+  </body>
+</html>

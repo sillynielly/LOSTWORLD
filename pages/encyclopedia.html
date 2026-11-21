@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#17251e">
+    <meta name="description" content="Search and browse the selected LOST WORLD collection of referenced extinct-animal records.">
+    <title>Animal Encyclopedia — LOST WORLD</title>
+    <link rel="stylesheet" href="../styles/base.css">
+    <link rel="stylesheet" href="../styles/archive.css">
+    <link rel="stylesheet" href="../styles/encyclopedia.css">
+    <script type="module" src="../scripts/site-nav.js"></script>
+    <script type="module" src="../scripts/encyclopedia.js"></script>
+  </head>
+  <body class="encyclopedia-page">
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <header class="museum-header" id="top">
+      <a class="museum-brand" href="../index.html" aria-label="LOST WORLD home">
+        <svg class="museum-brand__mark" viewBox="0 0 44 44" aria-hidden="true">
+          <circle cx="22" cy="22" r="19.5" />
+          <path d="M9 24c6-1 7-10 13-10s7 16 13 16M10 31c5-1 7-7 12-7s7 6 12 6M22 8v5m0 18v5" />
+          <circle cx="22" cy="22" r="2" />
+        </svg>
+        <span>LOST <b>WORLD</b></span>
+      </a>
+      <button class="museum-menu-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation" aria-label="Open navigation">
+        <span></span><span></span>
+      </button>
+      <nav class="museum-nav" id="primary-navigation" aria-label="Main navigation">
+        <a href="../index.html">Home</a>
+        <a href="#collection" aria-current="page">Encyclopedia</a>
+        <a href="about.html">About</a>
+        <details class="museum-nav__more">
+          <summary>More discoveries</summary>
+          <ul class="museum-nav__menu">
+            <li><a href="experiences.html">All discoveries</a></li>
+            <li><a href="compare.html">Comparison</a></li>
+            <li><a href="timeline.html">Timeline</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="map.html">Map</a></li>
+            <li><a href="quiz.html">Quiz</a></li>
+          </ul>
+        </details>
+      </nav>
+    </header>
+
+    <main id="main-content">
+      <section class="collection" id="collection" aria-labelledby="collection-title">
+        <div class="collection__inner">
+          <div class="collection__intro">
+            <p class="eyebrow">THE LOST WORLD FIELD GUIDE</p>
+            <h1 id="collection-title">Animal<br><em>Encyclopedia</em></h1>
+            <p>Search a selected archive of extinct animals, from prehistoric life to species lost within human history.</p>
+            <p class="collection__total" id="collection-total" aria-live="polite">Loading the collection…</p>
+          </div>
+
+          <form class="collection-search" id="collection-search" role="search">
+            <label for="animal-search">Find an animal</label>
+            <div class="collection-search__field">
+              <svg viewBox="0 0 20 20" aria-hidden="true">
+                <circle cx="8.5" cy="8.5" r="5.5" />
+                <path d="m13 13 4 4" />
+              </svg>
+              <input
+                id="animal-search"
+                name="q"
+                type="search"
+                autocomplete="off"
+                placeholder="Common or scientific name, period, habitat…"
+                aria-controls="search-suggestions"
+                aria-autocomplete="list"
+                aria-expanded="false"
+              >
+            </div>
+            <ul class="collection-search__suggestions" id="search-suggestions" role="listbox" hidden></ul>
+            <p class="collection-search__hint">Search names, time periods, habitats, regions, or other profile details.</p>
+          </form>
+
+          <div class="category-bar">
+            <span class="category-bar__label">Browse by category</span>
+            <div class="category-filters" id="category-filters" role="group" aria-label="Animal categories"></div>
+          </div>
+
+          <section class="collection-results" aria-label="Animal search results">
+            <div class="collection-results__meta">
+              <p class="collection-results__count" id="results-count" aria-live="polite"></p>
+              <button class="collection-results__clear" id="clear-filters" type="button">Clear search and filters</button>
+            </div>
+            <div class="animal-grid" id="animal-grid"></div>
+            <p class="collection-empty" id="collection-empty" hidden>
+              No animals match this search. Try another term or clear your filters.
+            </p>
+            <p class="collection-status" id="collection-status" role="status" aria-live="polite"></p>
+            <nav class="pagination" id="pagination" aria-label="Animal list pages"></nav>
+          </section>
+        </div>
+      </section>
+    </main>
+
+    <footer class="museum-footer">
+      <a class="museum-footer__home" href="../index.html">← LOST WORLD home</a>
+      <span>A selected, referenced collection</span>
+      <a href="about.html">About &amp; sources</a>
+      <a href="#top" class="museum-footer__top">Back to top ↑</a>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,248 @@
+.about-page {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.about-page .museum-header,
+.about-footer {
+  background: var(--forest-deep);
+}
+
+.about-main {
+  overflow: hidden;
+}
+
+.about-opening {
+  padding: clamp(3rem, 8vw, 6.5rem) var(--page-gutter);
+  background:
+    radial-gradient(ellipse at 87% 35%, rgba(196, 166, 106, 0.17), transparent 25rem),
+    linear-gradient(120deg, #18271f, #26382c 72%, #1b2b22);
+  color: var(--ivory);
+}
+
+.about-opening .eyebrow {
+  color: var(--gold-light);
+}
+
+.about-opening h1 {
+  margin: 1rem 0 1.15rem;
+  font-family: var(--serif);
+  font-size: clamp(3.4rem, 8vw, 6.5rem);
+  font-weight: 400;
+  letter-spacing: -0.07em;
+  line-height: 0.94;
+}
+
+.about-opening h1 em {
+  color: var(--gold-light);
+  font-weight: 400;
+}
+
+.about-opening__lead {
+  max-width: 43rem;
+  margin: 0;
+  color: rgba(240, 235, 221, 0.76);
+  font-size: 0.98rem;
+  line-height: 1.75;
+}
+
+.about-button {
+  display: inline-flex;
+  min-height: 2.85rem;
+  align-items: center;
+  gap: 0.9rem;
+  margin-top: 1.5rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid #53634f;
+  color: #364535;
+  font-size: 0.67rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: background-color 160ms ease, border-color 160ms ease, color 160ms ease;
+}
+
+.about-opening .about-button {
+  border-color: var(--gold-light);
+  background: var(--gold);
+  color: var(--forest-deep);
+}
+
+.about-button:hover {
+  border-color: var(--gold);
+  background: var(--gold-light);
+  color: var(--forest-deep);
+}
+
+.about-button--quiet {
+  border-color: rgba(54, 69, 53, 0.35);
+  background: transparent;
+}
+
+.about-guide {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  padding: clamp(2.5rem, 5vw, 4rem) var(--page-gutter);
+  background: var(--ivory);
+}
+
+.about-guide article {
+  padding: 1rem 1rem 1.15rem;
+  border-top: 1px solid rgba(67, 74, 58, 0.3);
+}
+
+.about-guide article > span {
+  color: #806b43;
+  font-size: 0.64rem;
+  letter-spacing: 0.1em;
+}
+
+.about-guide h2,
+.about-note h2,
+.about-sources h2 {
+  margin: 0.55rem 0 0.65rem;
+  font-family: var(--serif);
+  font-size: clamp(1.6rem, 2.5vw, 2.25rem);
+  font-weight: 400;
+  letter-spacing: -0.035em;
+  line-height: 1.1;
+}
+
+.about-guide p,
+.about-note > p:last-child,
+.about-sources > div:first-child > p:last-child {
+  max-width: 32rem;
+  margin: 0;
+  color: #62685d;
+  font-size: 0.81rem;
+  line-height: 1.75;
+}
+
+.about-note {
+  padding: clamp(2.5rem, 5vw, 4.25rem) var(--page-gutter);
+  background: #26382c;
+  color: var(--ivory);
+}
+
+.about-note .eyebrow {
+  color: var(--gold-light);
+}
+
+.about-note h2 {
+  max-width: 45rem;
+  font-size: clamp(2rem, 4vw, 3.2rem);
+}
+
+.about-note > p:last-child {
+  max-width: 48rem;
+  color: rgba(240, 235, 221, 0.72);
+}
+
+.about-sources {
+  display: grid;
+  grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
+  gap: 1.5rem 5vw;
+  padding: clamp(2.75rem, 6vw, 5rem) var(--page-gutter);
+  background: var(--paper);
+}
+
+.about-sources h2 {
+  max-width: 28rem;
+  font-size: clamp(2.2rem, 4vw, 3.5rem);
+}
+
+.about-sources .eyebrow {
+  color: #806b43;
+}
+
+.source-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.source-list li {
+  padding: 0.75rem 0;
+  border-top: 1px solid rgba(67, 74, 58, 0.22);
+}
+
+.source-list a {
+  color: #40533f;
+  font-size: 0.84rem;
+  text-decoration-color: rgba(64, 83, 63, 0.35);
+  text-underline-offset: 0.18rem;
+}
+
+.source-list a:hover {
+  color: #735e38;
+}
+
+.about-sources__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  grid-column: 2;
+}
+
+.about-sources__links .about-button {
+  margin-top: 0;
+}
+
+.about-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1.1rem var(--page-gutter);
+}
+
+.about-footer a {
+  color: var(--gold-light);
+  font-size: 0.67rem;
+  text-decoration: none;
+}
+
+.about-footer a:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.2rem;
+}
+
+.about-footer span {
+  color: rgba(240, 235, 221, 0.62);
+  font-family: var(--serif);
+  font-size: 0.95rem;
+}
+
+@media (max-width: 760px) {
+  .about-guide {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+
+  .about-sources {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  .about-sources__links {
+    grid-column: auto;
+  }
+}
+
+@media (max-width: 520px) {
+  .about-opening,
+  .about-guide,
+  .about-note,
+  .about-sources {
+    padding-right: 1.2rem;
+    padding-left: 1.2rem;
+  }
+
+  .about-footer {
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 1.1rem 1.2rem;
+  }
+}
