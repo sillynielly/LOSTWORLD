@@ -4,10 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#17251e">
-    <meta
-      name="description"
-      content="Explore extinct animals through a clear, referenced natural history encyclopedia."
-    >
+    <meta name="description" content="Explore 120 extinct animals through an interactive natural history archive.">
     <title>LOST WORLD — A history worth discovering</title>
     <link rel="preload" href="assets/images/spinosaurus-aegyptiacus.png" as="image" type="image/png">
     <link rel="stylesheet" href="styles/base.css">
@@ -18,7 +15,6 @@
   </head>
   <body class="home-page">
     <a class="skip-link" href="#main-content">Skip to content</a>
-
     <header class="museum-header home-header" id="top">
       <a class="museum-brand" href="#home" aria-label="LOST WORLD home">
         <svg class="museum-brand__mark" viewBox="0 0 44 44" aria-hidden="true">
@@ -28,9 +24,7 @@
         </svg>
         <span>LOST <b>WORLD</b></span>
       </a>
-      <button class="museum-menu-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation" aria-label="Open navigation">
-        <span></span><span></span>
-      </button>
+      <button class="museum-menu-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation" aria-label="Open navigation"><span></span><span></span></button>
       <nav class="museum-nav" id="primary-navigation" aria-label="Main navigation">
         <a href="#home" aria-current="page">Home</a>
         <a href="pages/encyclopedia.html">Encyclopedia</a>
@@ -51,40 +45,104 @@
 
     <main id="main-content">
       <section class="home-hero" id="home" aria-labelledby="home-title">
-        <div class="home-hero__atmosphere" aria-hidden="true">
-          <span></span><span></span><span></span>
-        </div>
+        <div class="home-hero__atmosphere" aria-hidden="true"><span></span><span></span><span></span></div>
         <figure class="home-hero__specimen">
-          <img
-            src="assets/images/spinosaurus-aegyptiacus.png"
-            alt="Scientific reconstruction of Spinosaurus aegyptiacus with a tall back sail and long tail."
-            width="1800"
-            height="1110"
-            fetchpriority="high"
-          >
-          <figcaption>
-            <i>Spinosaurus aegyptiacus</i>
-            <a href="https://commons.wikimedia.org/wiki/File:Spinosaurus_aegyptiacus_3.png" target="_blank" rel="noreferrer">
-              Image credit · Gustavo Monroy-Becerril, CC BY-SA 4.0 <span aria-hidden="true">↗</span>
-            </a>
-          </figcaption>
+          <img src="assets/images/spinosaurus-aegyptiacus.png" alt="Scientific reconstruction of Spinosaurus aegyptiacus with a tall back sail and long tail." width="1800" height="1110" fetchpriority="high">
+          <figcaption><i>Spinosaurus aegyptiacus</i><a href="https://commons.wikimedia.org/wiki/File:Spinosaurus_aegyptiacus_3.png" target="_blank" rel="noreferrer">Image credit · Gustavo Monroy-Becerril, CC BY-SA 4.0 <span aria-hidden="true">↗</span></a></figcaption>
         </figure>
-
         <div class="home-hero__content">
-          <p class="eyebrow">A digital natural history encyclopedia</p>
+          <p class="eyebrow">A DIGITAL NATURAL HISTORY EXPERIENCE</p>
           <h1 id="home-title">LOST<br><em>WORLD</em></h1>
           <p class="home-hero__tagline">A world that once was. A history worth discovering.</p>
-          <p class="home-hero__introduction">
-            Meet extinct animals through clear profiles, scientific evidence, and the traces they left behind.
-            Facts, estimates, and unknowns are kept distinct.
-          </p>
-          <a class="home-hero__action" href="pages/encyclopedia.html">
-            Explore animals <span aria-hidden="true">→</span>
-          </a>
-          <a class="home-hero__surprise" id="home-random" href="pages/encyclopedia.html">Or discover one at random <span aria-hidden="true">↗</span></a>
+          <p class="home-hero__introduction">Travel through deep time and meet the remarkable animals that once shaped our planet. Explore their stories, evidence, habitats, and the mysteries they left behind.</p>
+          <div class="home-hero__actions">
+            <a class="home-hero__action" href="pages/encyclopedia.html">Explore the archive <span aria-hidden="true">→</span></a>
+            <button class="home-hero__surprise" id="home-random" type="button">Surprise me with a species <span aria-hidden="true">✳</span></button>
+          </div>
           <p class="home-hero__status" id="home-status" role="status" aria-live="polite"></p>
         </div>
         <span class="home-hero__index" aria-hidden="true">FIELD GUIDE / 01</span>
+        <a class="home-hero__scroll" href="#expedition" aria-label="Scroll to begin exploring"><span></span> SCROLL TO EXPLORE</a>
+      </section>
+
+      <section class="home-intro-section" id="expedition" aria-labelledby="expedition-title">
+        <div class="home-section-heading reveal">
+          <p class="eyebrow">YOUR EXPEDITION BEGINS HERE</p>
+          <h2 id="expedition-title">The past is closer<br><em>than you think.</em></h2>
+          <p>Every fossil is a clue. Every species has a story. Follow the evidence and discover how extraordinary life on Earth has been.</p>
+        </div>
+        <div class="home-stat-strip reveal" aria-label="Archive highlights">
+          <div><strong id="home-animal-count">120</strong><span>animal records</span></div>
+          <div><strong>Millions</strong><span>of years of history</span></div>
+          <div><strong>One</strong><span>planet to explore</span></div>
+        </div>
+      </section>
+
+      <section class="home-discover-section" aria-labelledby="discover-title">
+        <div class="home-section-heading home-section-heading--light reveal">
+          <p class="eyebrow">CHOOSE YOUR PATH</p>
+          <h2 id="discover-title">Discover the<br><em>lost world.</em></h2>
+          <p>Explore the archive in different ways. Choose a field station and start your next discovery.</p>
+        </div>
+        <div class="home-feature-grid">
+          <a class="home-feature-card reveal" href="pages/encyclopedia.html"><span class="home-feature-card__number">01 / ARCHIVE</span><span class="home-feature-card__icon" aria-hidden="true">⌕</span><h3>Animal Encyclopedia</h3><p>Search and browse extinct animals, with profiles full of facts and references.</p><span class="home-feature-card__link">Browse species <b>↗</b></span></a>
+          <a class="home-feature-card reveal" href="pages/timeline.html"><span class="home-feature-card__number">02 / DEEP TIME</span><span class="home-feature-card__icon" aria-hidden="true">◷</span><h3>Time Explorer</h3><p>Travel across geological time and see when remarkable animals lived.</p><span class="home-feature-card__link">Explore timeline <b>↗</b></span></a>
+          <a class="home-feature-card reveal" href="pages/compare.html"><span class="home-feature-card__number">03 / FIELD STUDY</span><span class="home-feature-card__icon" aria-hidden="true">⇄</span><h3>Compare Species</h3><p>Put two extinct animals side by side and discover their differences.</p><span class="home-feature-card__link">Start comparing <b>↗</b></span></a>
+          <a class="home-feature-card reveal" href="pages/gallery.html"><span class="home-feature-card__number">04 / VISUAL ARCHIVE</span><span class="home-feature-card__icon" aria-hidden="true">▧</span><h3>Discovery Gallery</h3><p>Browse visual records and reconstructions from the archive.</p><span class="home-feature-card__link">Visit gallery <b>↗</b></span></a>
+          <a class="home-feature-card reveal" href="pages/map.html"><span class="home-feature-card__number">05 / GEOGRAPHY</span><span class="home-feature-card__icon" aria-hidden="true">◎</span><h3>Ancient World Map</h3><p>Explore where prehistoric life once lived across the changing Earth.</p><span class="home-feature-card__link">Open the map <b>↗</b></span></a>
+          <a class="home-feature-card reveal" href="pages/quiz.html"><span class="home-feature-card__number">06 / CHALLENGE</span><span class="home-feature-card__icon" aria-hidden="true">✳</span><h3>Extinction Quiz</h3><p>Test what you have learned and see how much of the lost world you know.</p><span class="home-feature-card__link">Take the quiz <b>↗</b></span></a>
+        </div>
+      </section>
+
+      <section class="home-time-section" aria-labelledby="time-title">
+        <div class="home-time-copy reveal">
+          <p class="eyebrow">INTERACTIVE FIELD NOTE / 01</p>
+          <h2 id="time-title">Choose a chapter<br><em>in deep time.</em></h2>
+          <p>Earth's history is vast. Select a chapter to reveal a quick field note, then continue exploring the full timeline.</p>
+          <a class="home-text-link" href="pages/timeline.html">Open the complete timeline <span>↗</span></a>
+        </div>
+        <div class="home-era-console reveal">
+          <div class="home-era-console__tabs" role="group" aria-label="Choose a geological time chapter">
+            <button type="button" class="home-era-tab is-active" data-era="paleozoic" aria-pressed="true">Paleozoic</button>
+            <button type="button" class="home-era-tab" data-era="mesozoic" aria-pressed="false">Mesozoic</button>
+            <button type="button" class="home-era-tab" data-era="cenozoic" aria-pressed="false">Cenozoic</button>
+            <button type="button" class="home-era-tab" data-era="recent" aria-pressed="false">Recent past</button>
+          </div>
+          <article class="home-era-note" aria-live="polite" aria-atomic="true">
+            <span class="home-era-note__index" id="era-index">CHAPTER 01</span>
+            <h3 id="era-name">Paleozoic Era</h3>
+            <p id="era-date">About 541 to 252 million years ago</p>
+            <div class="home-era-note__rule"></div>
+            <p id="era-description">Life diversified dramatically in the oceans, plants spread across land, and the first vertebrates began to explore new environments.</p>
+            <span class="home-era-note__decoration" aria-hidden="true">01</span>
+          </article>
+        </div>
+      </section>
+
+      <section class="home-specimen-section" aria-labelledby="specimen-title">
+        <div class="home-specimen-heading reveal">
+          <p class="eyebrow">THE SPECIMEN CABINET</p>
+          <h2 id="specimen-title">A discovery<br><em>awaits you.</em></h2>
+          <p>Meet a different member of the archive every time you explore.</p>
+        </div>
+        <article class="home-specimen-card reveal" id="home-specimen-card" aria-live="polite">
+          <div class="home-specimen-card__image"><img id="featured-image" src="assets/images/spinosaurus-aegyptiacus.png" alt="Spinosaurus aegyptiacus reconstruction"><span class="home-specimen-card__stamp">SPECIMEN / RANDOM PICK</span></div>
+          <div class="home-specimen-card__copy">
+            <p class="eyebrow" id="featured-category">FEATURED SPECIES</p>
+            <h3 id="featured-name">Spinosaurus</h3>
+            <p class="home-specimen-card__scientific" id="featured-scientific">Spinosaurus aegyptiacus</p>
+            <p id="featured-period">Cretaceous Period</p>
+            <a class="home-text-link" id="featured-link" href="pages/encyclopedia.html">Read the field profile <span>↗</span></a>
+            <button type="button" class="home-specimen-card__again" id="featured-again">Discover another <span>↻</span></button>
+          </div>
+        </article>
+      </section>
+
+      <section class="home-last-call reveal">
+        <p class="eyebrow">THE ARCHIVE IS OPEN</p>
+        <h2>History never<br><em>stops surprising us.</em></h2>
+        <p>Start with one species. Follow the clues. See the world differently.</p>
+        <a class="home-hero__action" href="pages/encyclopedia.html">Enter the encyclopedia <span aria-hidden="true">→</span></a>
       </section>
     </main>
 
@@ -92,6 +150,7 @@
       <span>LOST WORLD · An educational archive of extinct life</span>
       <a href="pages/about.html">About the project</a>
       <a href="assets/images/IMAGE-CREDITS.md">Image credits</a>
+      <a href="#top">Back to top ↑</a>
     </footer>
   </body>
 </html>
