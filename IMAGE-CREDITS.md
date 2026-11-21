@@ -135,3 +135,8 @@ These project-created SVG plates are explicit placeholders, not animal images. T
 - **Acanthoceras (Acanthoceras jukesbrownei) —** Fossil specimen photograph, by Motekov, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:ACANTHOCERAS_JUKESBROWNEI_(SPATH)_NOVACHENE_PLEVEN_PROV._CENOMANIAN_AR_SUMPHG.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Local file: `assets/images/animals/acanthoceras-jukesbrownei.jpg`.
 - **Baculites (Baculites compressus)** — project-created species-specific placeholder at `assets/images/animals/baculites-compressus.svg`. It is not a photograph or scientific reconstruction; Commons requests were rate-limited and not retried.
 - **Scaphites (Scaphites hippocrepis)** — project-created species-specific placeholder at `assets/images/animals/scaphites-hippocrepis.svg`. It is not a photograph or scientific reconstruction; the available Commons specimens were not verified to species.
+
+
+## Expanded archive atlas (77 new entries)
+
+The 77 entries added in the 200-animal expansion use individually cropped panels from `assets/images/animals/interpretive-atlas-77.svg`. These are original project-created, stylized interpretive emblems labeled with each taxon's name. **They are not photographs, museum specimens, or species-specific scientific reconstructions.** Artwork is dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). The corresponding image records link to the atlas and identify this limitation in their alt text.
